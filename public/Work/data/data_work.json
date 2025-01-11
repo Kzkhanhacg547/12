@@ -1,0 +1,26 @@
+[
+    {
+    "ID": "red",
+     "name":"Cần câu đỏ",
+      "data1":"https://i.imgur.com/D5q2GpW.jpeg",
+      "des": "Cần Câu Handing Shark\nCần câu Handing Shark là một sản phẩm cho dòng săn hàng, bắt cá lớn. Đã và đang nổi tiếng khắp các hồ dịch vụ, hồ tự nhiên trên mọi miền đất nước bởi khả năng tải cá, bo và kéo cá lớn. Ngay từ ngày mở bán phân phối tại Việt Nam Handing Shark đã được các cần thủ đón nhận và trở thành một sản phẩm hình mẫu cho phong cách câu săn hàng. Xứng đáng là một sản phẩm quốc dân, dẫn dắt phong cách cần săn hàng về Việt Nam sau này."
+    },
+  {
+     "ID": "pink",
+     "name":"Cần câu hồng",
+     "data1":"https://i.imgur.com/SOU9Yw1.jpeg",
+     "des":"Cần câu tay săn hàng Hồng Long sự lựa chọn tuyệt vời nhất cho nhu cầu câu tay săn hàng cá lớn. Siêu khỏe và trọng lượng nhẹ, độ nảy ấn tượng cùng khả năng giữ cá tuyệt vời là lý do cần câu Hồng Long được nhiều người tin dùng nhất hiện nay."
+  },
+  {
+"ID": "black",
+     "name":"Cần câu đen",
+      "data1":"https://i.imgur.com/LQHnV9m.jpeg",
+      "des":"Sản phẩm cần săn hàng đến từ thương\nhiệu ProFishing - Thương hiệu đã làm mưa làm gió với dòng cần Hắc Đấu\nPhôi cần được chế tạo từ Carbon nhập khẩu cao cấp với công nghệ xoắn đa chiều từ gốc đến ngọn đem lại cho cây cần trọng lượng nhẹ đáng kinh ngạc, nhưng lại có khả năng chịu tải cực kỳ khủng. Nên cần săn hàng Báo đen đã dễ dàng chinh phục thủy quái Cá Hô 20kg.\nThiết kế phôi cần nguyên thủy đem lại vẻ đẹp huyền bí nhưng vô cùng sang trọng."
+  },
+{
+  "ID": "blue",
+     "name":"Cần câu xanh dương",
+      "data1":"https://i.imgur.com/U9Hky3e.jpeg",
+      "des":"Đây là loại cần câu tay ngắn, có chiều dài chỉ 2m7;\nphù hợp để sử dụng ở những địa hình khó thao tác, vướng hay hạn chế bởi thành cầu, cây cối,…"
+}
+]

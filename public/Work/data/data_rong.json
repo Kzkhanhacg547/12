@@ -1,0 +1,186 @@
+[
+{
+"ID":"1",
+"name":"Thổ Long Con",
+"money":"16400",
+"data1":"https://imgur.com/hu37O4z.jpg",
+"danger":"Không Nguy Hiểm",
+"color":"Nâu",
+"asia":"Không biết",
+"des":"Bạn vừa đi săn thành công một con Thổ Long Size Mini và nhận được 16400$"
+},
+{
+"ID":"2",
+"name":"Hắc Long Con",
+"money":"17300",
+"data1":"https://imgur.com/8IuPrCN.jpg",
+"danger":"Nguy Hiểm Vừa",
+"color":"Đen Cam",
+"asia":"Không biết",
+"des":"Bạn quá nghèo nên quyết định đi săn rồng và bắt được Hắc Long Size mini và bán được 17300$"
+},
+{
+"ID":"3",
+"name":"Kim Long Con",
+"money":"16500",
+"data1":"https://imgur.com/XZJotzr.jpg",
+"danger":"Không Nguy Hiểm",
+"color":"Vàng Xanh",
+"asia":"Không biết",
+"des":"Bạn của bạn vừa rủ bạn đi săn rồng và săn thành công Kim Long Size Mini và được bạn chia cho 16500$"
+},{
+"ID":"4",
+"name":"Hắc Long Lai Con",
+"money":"18000",
+"data1":"https://imgur.com/yLF600d.jpg",
+"danger":"Nguy Hiểm Vừa",
+"color":"Tím",
+"asia":"Không biết",
+"des":"Bạn quá rảnh rổi quyết định rủ thằng bạn đi săn rồng và săn được Hắc Long Lai Size Mini và bán được 18000$"
+},{
+"ID":"5",
+"name":"Băng Long Con",
+"money":"17000",
+"data1":"https://imgur.com/zsnpyyk.jpg",
+"danger":"Không Nguy Hiểm",
+"color":"Xanh Nước Biển",
+"asia":"Không biết",
+"des":"Bạn vừa đi săn rồng và săn được Băng Long size mini và được mua lại với giá 17000$"
+},{
+"ID":"6",
+"name":"Thủy Long Con",
+"money":"17200",
+"data1":"https://imgur.com/xITGLd2.jpg",
+"danger":"Không Nguy Hiểm",
+"color":"Xanh Nước Biển",
+"asia":"Không biết",
+"des":"Bạn vừa đi săn rồng với ghệ và săn thành công Thủy Long size mini và được thu mua lại với giá 17200$"
+},
+{
+"ID":"7",
+"name":"Phong Long Con",
+"money":"17400",
+"data1":"https://imgur.com/iJyHiys.jpg",
+"danger":"Không Nguy Hiểm",
+"color":"Trắng Xám",
+"asia":"Không biết",
+"des":"Bạn quá chán khi ở nhà vì mua bão nên quyết định đi săn rồng và săn được Phong Long size mini và bán được 17400$"
+},{
+"ID":"8",
+"name":"Hoả Long Con",
+"money":"18900",
+"data1":"https://imgur.com/drz0Jfe.jpg",
+"danger":"Nguy Hiểm Vừa",
+"color":"Cam",
+"asia":"Không biết",
+"des":"Bạn vừa săn thành công nhưng suýt chết vì Hoả Long tuy nhỏ nhưng đã biết phun lửa và bán được 18900$"
+},{
+"ID":"9",
+"name":"Mộc Long Con",
+"money":"17400",
+"data1":"https://imgur.com/DmoXzA3.jpg",
+"danger":"Không Nguy Hiểm",
+"color":"Xanh Lá",
+"asia":"Không biết",
+"des":"Bạn quá rảnh nên rủ mấy thằng bạn đi săn rồng kiếm cơm và săn thành công được Mộc Long size mini và bán được 17400"
+},{
+"ID":"10",
+"name":"Kim Long",
+"money":"22000",
+"data1":"https://imgur.com/6DLEBtC.jpg",
+"danger":"Nguy Hiểm",
+"color":"Vàng Kim",
+"asia":"Châu Á",
+"des":"Bạn quá đói nên quyết định đi săn rồng và săn được Kim Long và nhận được 22000$"
+},{
+"ID":"11",
+"name":"Thanh Long",
+"money":"22300",
+"data1":"https://imgur.com/SMjlzz8.jpg",
+"danger":"Nguy Hiểm",
+"color":"đen",
+"asia":"Châu Á",
+"des":"Một người bạn của bạn đã rủ bạn đi săn rồng và săn được Thanh Long và bán được 22300$"
+},{
+"ID":"12",
+"name":"Chúc Long",
+"money":"25300",
+"data1":"https://imgur.com/TNxmbtD.jpg",
+"danger":"Cực Nguy Hiểm",
+"color":"Cam Đỏ",
+"asia":"Châu Á",
+"des":"Bạn quá rảnh rổi nên đã rủ thằng bạn đi săn rồng và săn được Chúc Long và được thu mua lại 25300$"
+},{
+"ID":"13",
+"name":"Thủy Long",
+"money":"23500",
+"data1":"https://imgur.com/dv8o5nZ.jpg",
+"danger":"Nguy Hiểm",
+"color":"Xanh Nước",
+"asia":"Châu Á",
+"des":"Bạn bị sếp đuổi khỏi công ty nên đã đi săn rồng để kiếm cơm và săn được một con Thủy Long bán được 23000$"
+},{
+"ID":"14",
+"name":"Hoả Long",
+"money":"23500",
+"data1":"https://imgur.com/GqFpRfo.jpg",
+"danger":"Nguy Hiểm",
+"color":"Cam Đỏ",
+"asia":"Châu Á",
+"des":"Bạn quá buồn vì bị ny chê nghèo nên nhất quyết phải đi săn rồng để làm giàu và săn được Hoả Long và được thu lại 23500$"
+},{
+"ID":"15",
+"name":"Hư Không Long",
+"money":"24000",
+"data1":"https://imgur.com/YJTyoi2.jpg",
+"danger":"Nguy Hiểm",
+"color":"Xanh Nước",
+"asia":"Châu á",
+"des":"Bạn vừa săn thành công một con Hư Không Long và bán được 24000$"
+},{
+"ID":"17",
+"name":"Bạch Long",
+"money":"25000",
+"data1":"https://imgur.com/yTgMQGO.jpg",
+"danger":"Nguy Hiểm",
+"color":"Trắng",
+"asia":"Châu Á",
+"des":"Bạn vừa săn thành công 1 con rồng Bạch Long siêu ngầu nên bán được 25000$"
+},{
+"ID":"18",
+"name":"Hoả Long",
+"money":"23500",
+"data1":"https://imgur.com/c9kfxkn.jpg",
+"danger":"Nguy Hiểm",
+"color":"Đen Cam",
+"asia":"Châu Âu",
+"des":"Bạn vừa đi săn thành công một con rồng Hoả Long của Châu Âu và bán được 23500$"
+},{
+"ID":"19",
+"name":"Băng Long",
+"money":"25000",
+"data1":"https://imgur.com/G9ApwSY.jpg",
+"danger":"Nguy Hiểm",
+"color":"Xanh Nước",
+"asia":"Châu Á",
+"des":"Bạn vừa đi săn thành công một con rồng tên Băng Long và bán được 25000$"
+},{
+"ID":"20",
+"name":"Kim Long",
+"money":"26000",
+"data1":"https://imgur.com/9G3TCG2.jpg",
+"danger":"Nguy Hiểm",
+"color":"Vàng",
+"asia":"Châu Á",
+"des":"Thằng bạn của bạn rủ bạn đi săn rồng và săn được một con Kim Long và bán được 26000$"
+},{
+"ID":"21",
+"name":"Hắc Long",
+"money":"30000",
+"data1":"https://imgur.com/Yk8JKQA.jpg",
+"danger":"Cực Nguy Hiểm",
+"color":"Đen Vàng",
+"asia":"Châu Á",
+"des":"Bạn sém mất mạng vì săn gặp một con Hắc Long size to và được đấu giá lên đến 30000$"
+}
+]

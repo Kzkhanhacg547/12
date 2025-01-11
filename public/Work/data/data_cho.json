@@ -1,0 +1,246 @@
+[
+{
+"ID":"1",
+"name":"Chó ChiHuaHua",
+"money":"10000",
+"data1":"https://imgur.com/8wuEh8F.jpg",
+"type":"Chó Tây",
+"danger":"Không Nguy Hiểm",
+"color":"Vàng",
+"des":"Bạn vừa cùng thk bạn đi bắt chó vì quá đói và bắt được chó ChiHuaHua và bán được 10000$"
+},{
+"ID":"2",
+"name":"Chó Bắc Kinh",
+"money":"12000",
+"data1":"https://imgur.com/DrDz0jL.jpg",
+"type":"Chó Tây",
+"danger":"Không Nguy Hiểm",
+"color":"Trắng",
+"des":"Bạn hết tiền và muốn kiếm thêm và được giới thiệu làm nghề bắt chó và bắt được chó Bắc Kinh và thu được 12000$"
+},{
+"ID":"3",
+"name":"Chó Bắc Kinh Lai Nhật",
+"money":"12300",
+"data1":"https://imgur.com/2Y1oX80.jpg",
+"type":"Chó Tây",
+"danger":"Không Nguy Hiểm",
+"color":"Trắng Vàng",
+"des":"Bạn vừa bị sếp đuổi nên quyết định đi bắt chó kiếm thêm và bắt được chó Bắc Kinh Lai Nhật của một bà tây và được mua lại 12300$"
+},{
+"ID":"4",
+"name":"Chó Dachshund",
+"money":"12340",
+"data1":"https://imgur.com/Emt5tIR.jpg",
+"type":"Chó Tây",
+"danger":"Không Nguy Hiểm",
+"color":"Đen Vàng",
+"des":"Một hôm bạn đang đi trên đường liền thấy 1 chú chó  DachShund nên nổi lòng tham bắt về và bán được 12340$"
+},{
+"ID":"5",
+"name":"Chó Phú Quốc",
+"money":"13000",
+"data1":"https://imgur.com/AA9BlN3.jpg",
+"type":"Chó Cỏ",
+"danger":"Nguy Hiểm",
+"color":"Vàng",
+"des":"Bạn vừa bị sếp đuổi vì làm toàn ngủ rụt và đang đói nên quyết định đi làm bắt chó =))) và bắt được một chú chó Phú Quốc và bán được 13000$"
+},{
+"ID":"6",
+"name":"Chó Pug",
+"money":"15000",
+"data1":"https://imgur.com/rwLC0bv.jpg",
+"type":"Chó Tây",
+"danger":"Không Nguy Hiểm",
+"color":"Vàng Nhạt",
+"des":"Bạn vừa săn thành công một chú chó Pug và bán được 15000$"
+},{
+"ID":"7",
+"name":"Chó Poodle",
+"money":"14500",
+"data1":"https://imgur.com/CTCmFip.jpg",
+"type":"Chó Tây",
+"danger":"Không Nguy Hiểm",
+"color":"Nâu",
+"des":"Bạn vừa săn thành công một chú chó Poodle và được thu mua lại với giá 14500$"
+},{
+"ID":"8",
+"name":"Chó Alaska",
+"money":"15000",
+"data1":"https://imgur.com/m7bUwiq.jpg",
+"type":"Chó Tây",
+"danger":"Không Nguy Hiểm",
+"color":"Trắng Đen",
+"des":"Bạn vừa đi bắt chó thành công một con chó Alaska nhỏ và bán được 15000$"
+},{
+"ID":"9",
+"name":"Chó Husky",
+"money":"16000",
+"data1":"https://imgur.com/j4a0OZz.jpg",
+"type":"Chó Tây",
+"danger":"Không Nguy Hiểm",
+"color":"Nâu Trắng",
+"des":"Bạn vừa bắt thành công một con chó Husky size to và bán lại được 16000$"
+},{
+"ID":"10",
+"name":"Chó Pomeranian",
+"money":"17000",
+"data1":"https://imgur.com/5wLpYAQ.jpg",
+"type":"Chó Tây",
+"danger":"Không Nguy Hiểm",
+"color":"Trắng",
+"des":"Bạn vừa đặt shoppe một dụng cụ bắt chó và quyết định hành nghề và bắt thành công 1 con chó Pomeranian bán được 17000$"
+},{
+"ID":"11",
+"name":"Chó Samoyed",
+"money":"17000",
+"data1":"https://imgur.com/UPduXYy.jpg",
+"type":"Chó Tây",
+"danger":"Không Nguy Hiểm",
+"color":"Trắng",
+"des":"Bạn vừa đi bắt thành công một con chó Samoyed thuộc loại chó tây và bán được 17000$"
+},{
+"ID":"12",
+"name":"Chó Beagle",
+"money":"18000",
+"data1":"https://imgur.com/uQJqgJC.jpg",
+"type":"Chó Tây",
+"danger":"Không Nguy Hiểm",
+"color":"Trắng, Đen, Nâu",
+"des":"Bạn quá chán và hiện tại bị sếp đuổi nên quyết định đi lập nghiệp với nghề bắt chó và bắt được chó Beagle bán được 18000$"
+},{
+"ID":"13",
+"name":"Chó Shiba Inu",
+"money":"18000",
+"data1":"https://imgur.com/iopTPCy.jpg",
+"type":"Chó Tây",
+"danger":"Không Nguy Hiểm",
+"color":"Vàng Nhạt",
+"des":"Bạn vừa đi bắt thành công một chú chó Shiba Inu và được mua lại với giá 18000$"
+},{
+"ID":"14",
+"name":"Chó Golden Retriever",
+"money":"18500",
+"data1":"https://imgur.com/7xBVLC6.jpg",
+"type":"Chó Tây",
+"danger":"Không Nguy Hiểm",
+"color":"Vàng",
+"des":"Bạn quá rảnh rỗi nên quyết định rủ thằng bạn chí cốt đi bắt chó và bắt được chú chó Golden Retriever của việc kiều Mỹ và tống tiền được 18500$"
+},{
+"ID":"15",
+"name":"Chó Becgie",
+"money":"20000",
+"data1":"https://imgur.com/h8gW9et.jpg",
+"type":"Chó Tây",
+"danger":"Nguy Hiểm",
+"color":"Vàng Đen",
+"des":"Bán vừa đi bắt thành công chó Becgie nhưng suýt bị cắn vì nó quá hung dữ và bán được 20000$"
+},{
+"ID":"16",
+"name":"Chó Corgi",
+"money":"16000",
+"data1":"https://imgur.com/l6frUh4.jpg",
+"type":"Chó Tây",
+"danger":"Không Nguy Hiểm",
+"color":"Vàng Trắng",
+"des":"Bạn vừa đi bắt chó và bắt dính Chó Corgi size mini và bán lại được với giá 16000$"
+},{
+"ID":"17",
+"name":"Chó Mông Cộc",
+"money":"17500",
+"data1":"https://imgur.com/RCtkxVE.jpg",
+"type":"Chó Cỏ",
+"danger":"Nguy Hiểm",
+"color":"Vàng",
+"des":"Bạn vừa đi bắt thành công một con chó Mông Cộc nhìn khá hung dữ và bán được 17500$"
+},{
+"ID":"18",
+"name":"Ngao Tây Tạng",
+"money":"25000",
+"data1":"https://imgur.com/MUo5oNX.jpg",
+"type":"Chó Tây",
+"danger":"Cực Nguy Hiểm",
+"color":"Vàng",
+"des":"Bạn suýt mất mạng vì bắt chúng chó Ngao Tây Tạng Size khủng nhưng nó vẫn bị bạn chít điện ngất và bạn bán được 25000$"
+},{
+"ID":"19",
+"name":"Chó Chăn Cừu",
+"money":"20000",
+"data1":"https://imgur.com/TaefAH7.jpg",
+"type":"Chó Tây",
+"danger":"Nguy Hiểm",
+"color":"Đen",
+"des":"Bạn vừa đi bắt thành công một chú chó Chăn Cừu tuy nhiên bạn đã bị nó cắn một phát và bạn bán được 20000$"
+},{
+"ID":"20",
+"name":"Chó Pitbull",
+"money":"22000",
+"data1":"https://imgur.com/zA4krCc.jpg",
+"type":"Chó Tây",
+"danger":"Nguy Hiểm",
+"color":"Vàng Nhạt",
+"des":"Thằng bạn của bạn vừa rủ bạn đi bắt chó và bắt thành công chó Pitbull tuy nhiên thằng bạn của bạn đã bị nó cắn hai phát vì nó quá hung dữ và được mua lại 22000$"
+},{
+"ID":"21",
+"name":"Chó Doberman",
+"money":"23000",
+"data1":"https://imgur.com/YvgvWNg.jpg",
+"type":"Chó Tây",
+"danger":"Nguy Hiểm",
+"color":"Đen Vàng",
+"des":"Bạn vừa đi bắt chó thành công nhưng suýt bị cắn và bắt được chó Doberman và bán được 23000$"
+},{
+"ID":"22",
+"name":"Chó Boxer",
+"money":"23500",
+"data1":"https://imgur.com/DMOFuE4.jpg",
+"type":"Chó Tây",
+"danger":"Nguy Hiểm",
+"color":"Vàng",
+"des":"Bạn vừa đi làm một thằng bắt chó thành công bắt được một chú chó Boxer và bán được 23500$"
+},{
+"ID":"23",
+"name":"Chó Rottweiler",
+"money":"23000",
+"data1":"https://imgur.com/Qhx358j.jpg",
+"type":"Chó Tây",
+"danger":"Nguy Hiểm",
+"color":"Đen Vàng",
+"des":"Bạn vừa đi bắt chó thành công và bắt được chó Rottweiler và được mua lại 23000$"
+},{
+"ID":"24",
+"name":"Chó Lài Sông Mã",
+"money":"17000",
+"data1":"https://imgur.com/4U4e0f2.jpg",
+"type":"Chó Cỏ",
+"danger":"Không Nguy Hiểm",
+"color":"Vàng",
+"des":"Bạn vừa đi bắt chó thành công một con chó Lài Sông Mã và bán được 17000$"
+},{
+"ID":"25",
+"name":"Chó H’mông cộc đuôi",
+"money":"17000",
+"data1":"https://imgur.com/GfyKRdz.jpg",
+"type":"Chó Cỏ",
+"danger":"Không Nguy Hiểm",
+"color":"Đen",
+"des":"Bạn vừa đi bắt thành công chó H'mông Cộc Đuôi và bán được 17000$"
+},{
+"ID":"26",
+"name":"Chó Bắc Hà",
+"money":"20000",
+"data1":"https://imgur.com/9jicnlM.jpg",
+"type":"Chó Cỏ",
+"danger":"Nguy Hiểm",
+"color":"Đen",
+"des":"Bạn vừa rủ thằng bạn đi trộm chó về bán vì quá đói và bắt thành công chó Bắc Hà và bán được 20000$"
+},{
+"ID":"27",
+"name":"Chó Lài",
+"money":"21000",
+"data1":"https://imgur.com/Ow2pP8q.jpg",
+"type":"Chó Cỏ",
+"danger":"Nguy Hiểm",
+"color":"Vàng",
+"des":"Bạn vừa đi trộm chó thành công một con chó Lài và bán được 21000$"
+}
+]

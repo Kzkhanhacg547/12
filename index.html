@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="icon" href="https://i.imgur.com/fOXQZ4I.png" type="image/png">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WEB - Kz API</title>
+  <style>
+    body {
+      background: #2b2b2b;
+      color: #ffffff;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+      overflow-x: hidden;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background: #383838;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    }
+
+    .header {
+      background: #ff8c00;
+      padding: 20px;
+      border-radius: 10px 10px 0 0;
+      color: #fff;
+      font-size: 24px;
+      font-weight: bold;
+      letter-spacing: 2px;
+      transition: background-color 0.3s ease;
+    }
+
+    .header:hover {
+      background: #ff6347;
+    }
+
+    .divider {
+      background: linear-gradient(to right, #FF00FF, #00FFFF);
+      height: 4px;
+      margin: 20px 0;
+      border-radius: 2px;
+    }
+
+    .skill-item {
+      border: 2px solid #00FF00;
+      color: #00FF00;
+      font-weight: bold;
+      padding: 20px;
+    }
+
+    .skill-item b {
+      font-size: 22px;
+      color: #ff8c00;
+    }
+
+    .footer {
+      margin-top: 20px;
+      font-size: 14px;
+      color: #888;
+    }
+
+    .button-link {
+      background: none;
+      border: 1px solid blue;
+      color: blue;
+      text-decoration: none;
+      cursor: pointer;
+      padding: 5px 10px;
+      margin: 5px;
+      display: inline-block;
+      display: block;
+      margin-bottom: 10px;
+    }
+  </style>
+
+  <!-- <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      // Thêm hiệu ứng cho .header
+      var header = document.querySelector('.header');
+      header.addEventListener('mouseover', function () {
+        header.style.backgroundColor = '#ff6347'; // Màu sắc mới khi rê chuột vào
+      });
+      header.addEventListener('mouseout', function () {
+        header.style.backgroundColor = '#ff8c00'; // Màu sắc ban đầu khi rời chuột
+      });
+
+      // Thêm hiệu ứng cho .skill-item
+      var skillItems = document.querySelectorAll('.skill-item');
+      skillItems.forEach(function (item) {
+        item.addEventListener('click', function () {
+          item.style.transform = 'rotate(0deg)'; // Xoay 360 độ khi được click
+        });
+      });
+    });
+  </script> -->
+</head>
+<body>
+  <div class="container">
+    <div class="header">WEB - Kz API</div>
+    <div class="divider"></div>
+
+        <div class="skill-item" style="color: #FF8247;"><b>• 𝗔𝘂𝘁𝗵𝗲𝗿:</b> Kz </div>
+        <div class="skill-item" style="color: #8470FF;"><b>• 𝗡𝗮𝗺𝗲: </b>Kz Khánhh</div>
+        <div class="skill-item" style="color: #00BFFF;"><b>• 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞: </b>https://www.facebook.com/kzkhanh547</div>
+        <!-- Add other sections as needed -->
+
+    <div class="skill-item" style="color: #FFCC00;">
+      <b>🔑 𝗔𝗣𝗜𝗞𝗘𝗬 🔑</b><br>
+      <a class="button-link" href="/apikey?type=register&name=tên của bạn">Register APIKEY:</a> /apikey?type=register&name=tên của bạn<br>
+      <a class="button-link" href="/apikey?type=recover&ip_address=IP_address">Recover APIKEY:</a> /apikey?type=recover&ip_address=IP_address<br>
+      <a class="button-link" href="/apikey?type=checker&apikey=APIKEY">Check APIKEY:</a> /apikey?type=checker&apikey=APIKEY<br><br>
+    </div>
+
+    <div class="skill-item" style="color: #FF0000;">
+      <b>🔞 𝗛𝗘𝗡𝗧𝗔𝗜 🔞</b><br>
+      <a class="button-link" href="/hentai/home">Home:</a> /hentai/home<br>
+      <a class="button-link" href="/hentai/search?query=miku">Search:</a> /hentai/search?query=miku<br>
+      <a class="button-link" href="/hentai/details?link=( link )">Info:</a> /hentai/details?link=( link )<br>
+      <a class="button-link" href="/hentai/read?link=( link )">Chapter:</a> /hentai/read?link=( link )<br><br>
+    </div>
+
+    <div class="skill-item" style="color: #FFA500;">
+      <b>📥 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 📥</b><br>
+      <a class="button-link" href="/twitter/video?url=">TWITTER</a> /twitter/video?url= <br>
+      
+      <a class="button-link" href="/pinterest?search=girl xinh">Pinterest:</a> /pinterest?search=girl xinh<br>
+       
+         <a class="button-link" href="/youtube/download?id=<url>&apikey=kzkhanhz7517222606">Youtube:</a> /youtube/download?id=url&apikey=APIKEY<br>
+      <a class="button-link" href="/instagram/infouser?ig=[ ID instagram ]">Info Instagram:</a> /instagram/infouser?ig=[ ID instagram ]<br>
+      <a class="button-link" href="/instagram/postuser?username=[ ID instagram ]">Post Instagram:</a> /instagram/postuser?username=[ ID instagram ]<br>
+      <a class="button-link" href="/tiktok/infov2?username=[ ID tiktok ]">Info TikTok:</a> /tiktok/infov2?username=[ ID tiktok ]<br>
+      <a class="button-link" href="/tiktok/downloadvideo?url=[ Link ]">Download TikTok Video:</a> /tiktok/downloadvideo?url=[ Link ] ( Download được video, music )<br>
+      <a class="button-link" href="/tiktok/searchvideo?keywords=[ Từ khoá ]">Search TikTok Video:</a> /tiktok/searchvideo?keywords=[ Từ khoá ]<br>
+      <a class="button-link" href="/tiktok/trendingtiktok">Trending TikTok:</a> /tiktok/trendingtiktok<br>
+      <a class="button-link" href="/tiktok/postuserv2?username">Post TikTok:</a> /tiktok/postuserv2?username<br><br>
+    </div>
+
+
+    <div class="skill-item" style="color: #FF3300;">
+      <b>💻 𝗖𝗔𝗡𝗩𝗔𝗦 💻</b><br>
+      <a class="button-link" href="/canvas/avatarwibu?id=2&chu_nen=rqzax&chu_ky=Kz">Avatar Anime:</a> /canvas/avatarwibu?id=2&chu_nen=rqzax&chu_ky=Kz<br>
+      <a class="button-link" href="/taoanhdep/list">List Anime:</a> /taoanhdep/list<br>
+      <a class="button-link" href="/taoanhdep/search?key=dora">Anime Search:</a> /taoanhdep/search?key=dora<br>
+      <a class="button-link" href="/fbcover/v1?name=Kz Khánhh&uid=100081129610697&address=địa chỉ&email=113@gmail.com&subname=Kz&sdt=113&color=pink">Cover Facebook v1:</a> /fbcover/v1?name=Kz Khánhh&uid=100081129610697&address=địa chỉ&email=113@gmail.com&subname=Kz&sdt=113&color=pink<br>
+      <a class="button-link" href="/fbcover/v2?name=Kz Khánhh&id=1&subname=Kz">Cover Facebook v2:</a> /fbcover/v2?name=Kz Khánhh&id=1&subname=Kz<br>
+      <a class="button-link" href="/fbcover/v3?name=Kz Khánhh&birthday=10/11&love=mqh&location=nơi ở&hometown=quê quán&follow=9999999999&gender=gioitinh&uid=100081129610697">Cover Facebook v3:</a> /fbcover/v3?name=Kz Khánhh&birthday=10/11&love=mqh&location=nơi ở&hometown=quê quán&follow=9999999999&gender=gioitinh&uid=100081129610697<br>
+      <a class="button-link" href="/lienquan?id=45&word=hi">Liên Quân:</a> /lienquan?id=45&word=hi<br>
+      <a class="button-link" href="/thuphap?id=1&sodong=3&dong_1=Kz&dong_2=ACG&dong_3=Khánhh">Thư Pháp:</a> /thuphap?id=1&sodong=3&dong_1=Kz&dong_2=ACG&dong_3=Khánhh<br>
+      <a class="button-link" href="/blink?id=uid,uid,uid&delay=500">Blink:</a> /blink?id=uid,uid,uid&delay=500<br>
+      <a class="button-link" href="/shopmaihuong?text1=test&text2=1234345332">Danh Thơ:</a> /shopmaihuong?text1=test&text2=1234345332<br>
+      <a class="button-link" href="/giangsinh?text=kz">Giáng Sinh:</a> /giangsinh?text=kz<br>
+      <a class="button-link" href="/cccd?text1=kz&text2=dd/mm/yy&text3=giới tính&text4=nơi ở&urlimg=https://i.imgur.com/p9wciqt.jpg">Chứng Minh Công Dân:</a> /cccd?text1=kz&text2=dd/mm/yy&text3=giới tính&text4=nơi ở&urlimg=https://i.imgur.com/p9wciqt.jpg<br>
+      <a class="button-link" href="/anhbia?name=Kz Khánhh&age=2007">Ảnh Bìa:</a> /anhbia?name=Kz Khánhh&age=2007<br>
+      <a class="button-link" href="/bannertc?kieu=1&age=2007&name=Kz Khánhh">Banner TC:</a> /bannertc?kieu=1&age=2007&name=Kz Khánhh<br>
+      <a class="button-link" href="/bannertc2?age=2007&name=Kz Khánhh&text=Kz">Banner TC2:</a> /bannertc2?age=2007&name=Kz Khánhh&text=Kz<br>
+      <a class="button-link" href="/cardinfo?location=trên mặt đất&name=Kz&gender=Nam&vanity=Kz&uid=100081129610697&chuky=Kz">Card Info:</a> /cardinfo?location=trên mặt đất&name=Kz&gender=Nam&vanity=Kz&uid=100081129610697&chuky=Kz<br>
+      <a class="button-link" href="/ggsaid?name=Kz">GG Said:</a> /ggsaid?name=Kz<br>
+      <a class="button-link" href="/hn2022?&name=Kz Khánhh&kieu=2&uid=100081129610697">Lì Xì 2022:</a> /hn2022?&name=Kz Khánhh&kieu=2&uid=100081129610697<br>
+      <a class="button-link" href="/m2022?&name=Kz Khánhh&uid=100081129610697">Bìa Tết 2022:</a> /m2022?&name=Kz Khánhh&uid=100081129610697<br>
+      <a class="button-link" href="/mkt?text1=Kz Khánhh&text2=Kz&fb=xxx@gmail.com&tl=113&lc=trên mặt đất&uid=100081129610697">Market:</a> /mkt?text1=Kz Khánhh&text2=Kz&fb=xxx@gmail.com&tl=113&lc=trên mặt đất&uid=100081129610697<br>
+      <a class="button-link" href="/moon?name=Kz Khánhh&ngay=10&thang=11&nam=2007">Ân Hồn Trăng:</a> /moon?name=Kz Khánhh&ngay=10&thang=11&nam=2007<br>
+      <a class="button-link" href="/tad?color1=red&color2=blue&tenchinh=Kz Khánhh&ten_phu=Kz">Lò Xo Bóng:</a> /tad?color1=red&color2=blue&tenchinh=Kz Khánhh&ten_phu=Kz<br>
+      <a class="button-link" href="/tichxanh?kieu=2&uid=100081129610697&name=Kz Khánhh">Tích Xanh:</a> /tichxanh?kieu=2&uid=100081129610697&name=Kz Khánhh<br><br>
+    </div>
+
+    <div class="skill-item" style="color: #FF00FF;">
+      <b>🎀 𝐈𝐌𝐀𝐆𝐄𝐒 🎀</b><br>
+      <a class="button-link" href="images/wallpaper">Ảnh Wallpaper:</a> images/wallpaper<br>
+      <a class="button-link" href="/images/anime">Ảnh Anime:</a> /images/anime<br>
+      <a class="button-link" href="/images/chitanda">Ảnh Chitanda:</a> /images/chitanda<br>
+      <a class="button-link" href="/images/lucy">Ảnh Lucy:</a> /images/lucy<br>
+      <a class="button-link" href="/images/kawaii">Ảnh Kawaii:</a> /images/kawaii<br>
+      <a class="button-link" href="/images/ausand">Ảnh Ausand:</a> /images/ausand<br>
+      <a class="button-link" href="/images/kana">Ảnh Kana:</a> /images/kana<br>
+      <a class="button-link" href="/images/gura">Ảnh Gura:</a> /images/gura<br>
+      <a class="button-link" href="/images/cosplay">Ảnh Cosplay:</a> /images/cosplay<br>
+      <a class="button-link" href="/images/couple">Ảnh Couple:</a> /images/couple<br>
+      <a class="button-link" href="/images/ppcouple">Avatar Couple:</a> /images/ppcouple<br>
+      <a class="button-link" href="/images/du">Ảnh Đù:</a> /images/du<br>
+      <a class="button-link" href="/images/gentle">Ảnh Gentle:</a> /images/gentle<br>
+      <a class="button-link" href="/images/girl">Ảnh Gái:</a> /images/girl<br>
+      <a class="button-link" href="/images/girlsexy">Ảnh Gái Sexy:</a> /images/girlsexy<br>
+      <a class="button-link" href="/images/help">Ảnh Help:</a> /images/help<br>
+      <a class="button-link" href="/images/hentai">Ảnh Hentai:</a> /images/hentai<br>
+      <a class="button-link" href="/images/ig">Ảnh IG:</a> /images/ig<br>
+      <a class="button-link" href="/images/itachi">Ảnh Itachi:</a> /images/itachi<br>
+      <a class="button-link" href="/images/loli">Ảnh Loli:</a> /images/loli<br>
+      <a class="button-link" href="/images/meme">Ảnh Meme:</a> /images/meme<br>
+      <a class="button-link" href="/images/mirai">Ảnh Mirai:</a> /images/mirai<br>
+      <a class="button-link" href="/images/wibu">Ảnh Wibu:</a> /images/wibu<br>
+      <a class="button-link" href="/images/mong">Ảnh Mong:</a> /images/mong<br>
+      <a class="button-link" href="/images/naughty">Ảnh Naughty:</a> /images/naughty<br>
+      <a class="button-link" href="/images/nude">Ảnh Nude:</a> /images/nude<br>
+      <a class="button-link" href="/images/saumui">Ảnh 6 Mùi:</a> /images/saumui<br>
+      <a class="button-link" href="/images/trai">Ảnh Trai:</a> /images/trai<br>
+      <a class="button-link" href="/images/tw">Ảnh TW:</a> /images/tw<br>
+      <a class="button-link" href="/images/autosend">Video Autosend:</a> /images/autosend<br>
+      <a class="button-link" href="/images/videochill">Video Chill:</a> /images/videochill<br>
+      <a class="button-link" href="/images/videogaixinh">Video Gái Xinh:</a> /images/videogaixinh<br>
+      <a class="button-link" href="/images/videosex">Video Sex:</a> /images/videosex<br><br>
+    </div>
+
+    <div class="skill-item" style="color: #FF34B3;">
+      <b>💖 𝗧𝗛𝗢̛ 💖</b><br>
+      <a class="button-link" href="/poem/love">Câu Thơ Tình:</a> /poem/love<br>
+      <a class="button-link" href="/poem/cadao">Câu Đào:</a> /poem/cadao<br>
+      <a class="button-link" href="/poem/thayboi">Thầy Bói:</a> /poem/thayboi<br>
+      <a class="button-link" href="/poem/truyencuoi">Truyện Cười:</a> /poem/truyencuoi<br>
+      <a class="button-link" href="/poem/joker">Joker:</a> /poem/joker<br><br>
+    </div>
+
+    <div class="skill-item" style="color: #FF9900;">
+      <b>🎮 𝗚𝗔𝗠𝗘 🎮</b><br>
+      <a class="button-link" href="/game/dhbcv1">ĐHBC v1:</a> /game/dhbcv1<br>
+      <a class="button-link" href="/game/dhbcv2">ĐHBC v2:</a> /game/dhbcv2<br>
+      <a class="button-link" href="/game/dhbcv3">ĐHBC v3:</a> /game/dhbcv3<br>
+      <a class="button-link" href="/game/linkword?word=">Nối Từ:</a> /game/linkword?word=<br>
+      <a class="button-link" href="/game/dovui">Đố Vui:</a> /game/dovui<br>
+      <a class="button-link" href="/game/taixiu">Tài Xỉu:</a> /game/taixiu<br>
+      <a class="button-link" href="/game/taixiuv2">Tài Xỉu v2:</a> /game/taixiuv2<br>
+      <a class="button-link" href="/game/pubg">PUBG:</a> /game/pubg<br>
+      <a class="button-link" href="/game/csgo">CS:GO:</a> /game/csgo<br>
+      <a class="button-link" href="/sim?type=ask&ask=sim%20ơi">Sim Ask:</a> /sim?type=ask&ask=sim%20ơi<br>
+      <a class="button-link" href="/sim?type=teach&ask=sim%20ơi&ans=ơii">Sim Teach:</a> /sim?type=teach&ask=sim%20ơi&ans=ơii<br>
+      <b>𝗩𝘂𝗮 𝗧𝗶𝗲̂́𝗻𝗴 𝗩𝗶𝗲̣̂𝘁:</b><br>
+      <a class="button-link" href="/game/vuatiengviet/keyword">Get Key Word:</a> /game/vuatiengviet/keyword<br>
+      <a class="button-link" href="/game/vuatiengviet/image?word=từ khóa">Create Image:</a> /game/vuatiengviet/image?word=từ khóa<br>
+      <b>𝐂𝐅𝐒:</b><br>
+      <a class="button-link" href="/cfs">CFS:</a> /cfs<br>
+      <a class="button-link" href="/cfsdata">CFS Data:</a> /cfsdata<br>
+      <a class="button-link" href="/react">React:</a> /react<br><br>
+    </div>
+
+    <div class="skill-item" style="color: #00aff0;">
+      <b>📜 𝗗𝗔𝗧𝗔 📜</b><br>
+      <a class="button-link" href="/covid?country=viet nam">Covid:</a> /covid?country=viet nam<br>
+      <a class="button-link" href="/tarot">Tarot:</a> /tarot<br>
+      <b>Liên Minh Huyền Thoại:</b><br>
+      <a class="button-link" href="/lol/list">List Champion:</a> /lol/list<br>
+      <a class="button-link" href="/lol?champion=yasuo">Champion Yasuo:</a> /lol?champion=yasuo<br>
+      <a class="button-link" href="/wattpad/search?q=[name]">Wattpad Search:</a> /wattpad/search?q=[name]<br>
+      <a class="button-link" href="/pokemon/search?name=Pikachu">Pokemon Search:</a> /pokemon/search?name=Pikachu<br><br>
+    </div>
+
+    <div class="skill-item" style="color: #00FFFF;">
+      <b>📌 𝗧𝗢𝗢𝗟𝗦 📌</b><br>
+      <a class="button-link" href="/imgur?link=<link ảnh>">Upload Imgur:</a> /imgur?link=<link ảnh><br>
+      <a class="button-link" href="/imgurupload?link=<link ảnh>">Upload Imgur v2:</a> /imgurupload?link=<link ảnh><br>
+      <a class="button-link" href="checknude?key=(key)&link=<link ảnh>">Check Nude:</a> checknude?key=(key)&link=<link ảnh><br>
+      <a class="button-link" href="/uptimerobot/create?url=<link>">Uptimerobot:</a> /uptimerobot/create?url=<link><br>
+      <a class="button-link" href="/random/useragent">Random User Agent:</a> /random/useragent<br>
+      <a class="button-link" href="/img/wallpaper?q=[name]">Wallpaper:</a> /img/wallpaper?q=[name]<br>
+      <a class="button-link" href="/img/wallpaperv2?q=raiden&page=1">Wallpaper v2:</a> /img/wallpaperv2?q=raiden&page=1<br>
+      <a class="button-link" href="/tinyurl?url=<link>">TinyURL:</a> /tinyurl?url=<link><br>
+      <a class="button-link" href="/xsmb">XSMB:</a> /xsmb<br>
+      <a class="button-link" href="/xsmb?date=">XSMB Day:</a> /xsmb?date=<br>
+      <a class="button-link" href="/proxy?location=vn&protocols=socks4">Get Proxy:</a> /proxy?location=vn&protocols=socks4<br>
+      <b>Mail10p:</b><br>
+      <a class="button-link" href="/mail10p/domain">List Domain:</a> /mail10p/domain<br>
+      <a class="button-link" href="/mail10p/get?email=emall@domain&apikey=">Get Email:</a> /mail10p/get?email=emall@domain&apikey=<br>
+      <a class="button-link" href="/mail10p/check?id_mail=id_mail&apikey=">Check Mail:</a> /mail10p/check?id_mail=id_mail&apikey=<br>
+      
+    <!-- <b>Đọcument:</b><br>
+    <a class="button-link" href="use">Use:</a> "lấy 1 email gửi tới 1 địa chỉ email bạn tự đặt tên@domain (ví dụ miraicute@mailkept.com)<br>
+    <a class="button-link" href="get">Get:</a> "email bạn vừa mới đặt ở trên@domain (ví dụ: miraicute@mailkept.com). Hãy chắc chắn rằng đã có 1 email đã gửi thư đến email bạn vừa tạo"<br>
+    <a class="button-link" href="check">Check:</a> "nhập id mail của bạn (id có khi bạn get thành công)"<br><br> -->
+
+      <div class="skill-item" style="color: #FFFF00;">
+        🎵Soundcloud🎵<br>
+        <a class="button-link" href="/soundcloud/download?apikey=kzkhanhz7517222606&link=https://soundcloud.com/trend-music-460968806/nen-va-hoa-remix-rhymastic-dinh-bao-ft-hoang-khiem-remix-ver-2-nhac-hot-tiktok-2023">𝗱𝗼𝘄𝗻𝗹𝗼𝗮𝗱</a>  /soundcloud/download?apikey=-APIKEY-&link=<br>
+
+        <a class="button-link" href=" /soundcloud/search?apikey=kzkhanhz7517222606&keyword=nến và hoa">𝘀𝗲𝗮𝗿𝗰𝗵</a>  /soundcloud/search?apikey=-APIKEY-&keyword=<br>
+
+        <a class="button-link" href=" /soundcloud/info?apikey=kzkhanhz7517222606&link=https://soundcloud.com/trend-music-460968806/nen-va-hoa-remix-rhymastic-dinh-bao-ft-hoang-khiem-remix-ver-2-nhac-hot-tiktok-2023">𝗶𝗻𝗳𝗼</a>  /soundcloud/info?apikey=-APIKEY-&link=<br>
+      </div>
+
+      <div class="skill-item" style="color: #C0C0C0;">
+      🎶ZINGMP3🎶<br>
+        <a class="button-link" href="/zingmp3/download?apikey=kzkhanhz7517222606&link=https://zingmp3.vn/bai-hat/Tinh-Ca-Tinh-Ta-Cukak-Remix-Kis-CUKAK/ZZ8AUO7Z.html">𝗱𝗼𝘄𝗻𝗹𝗼𝗮𝗱</a>  /zingmp3/download?apikey=-APIKEY-&link=<br>
+
+        <a class="button-link" href="  /zingmp3/search?apikey=kzkhanhz7517222606&keyword=nến và hoa">𝘀𝗲𝗮𝗿𝗰𝗵</a> /zingmp3/search?apikey=-APIKEY-&keyword=<br>
+
+        <a class="button-link" href=" /zingmp3/info?apikey=kzkhanhz7517222606&link=https://zingmp3.vn/bai-hat/Tinh-Ca-Tinh-Ta-Cukak-Remix-Kis-CUKAK/ZZ8AUO7Z.html">𝗶𝗻𝗳𝗼</a>  /zingmp3/info?apikey=-APIKEY-&link=<br>
+      </div>
+
+    <div class="skill-item">
+      💸 𝗕𝗔𝗡𝗞𝗜𝗡𝗚 💸<br>
+      <a class="button-link" href="/bank/check">Check:</a> /bank/check<br>
+      <a class="button-link" href="/bank/find">Find:</a> /bank/find<br>
+      <a class="button-link" href="/bank/get">Get:</a> /bank/get<br>
+      <a class="button-link" href="/bank/password">Password:</a> /bank/password<br>
+      <a class="button-link" href="/bank/pay">Pay:</a> /bank/pay<br>
+      <a class="button-link" href="/bank/register">Register:</a> /bank/register<br>
+      <a class="button-link" href="/bank/send">Send:</a> /bank/send<br>
+      <a class="button-link" href="/bank/top">Top:</a> /bank/top<br><br>
+    </div>
+    <footer class="footer">© 2024 Kz API</footer>
+  </div>
+
+
+
+    
+</body>
+  <style>
+    body2 {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        margin: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    h5 {
+        color: #333;
+        margin-bottom: 10px;
+    }
+
+    label {
+        display: block;
+        margin-top: 10px;
+        font-size: 16px;
+        color: #555;
+    }
+
+    #api-url {
+        width: 70%;
+        padding: 8px;
+        font-size: 14px;
+    }
+
+    #load-button {
+        padding: 10px 20px;
+        font-size: 16px;
+        background-color: #4CAF50;
+        color: #fff;
+        border: none;
+        cursor: pointer;
+        margin-top: 10px;
+    }
+
+    #load-button:hover {
+        background-color: #45a049;
+    }
+
+    #media-container {
+        margin-top: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 420px; /* Điều chỉnh chiều cao theo mong muốn */
+    }
+
+    p {
+        color: #777;
+    }
+
+    video,
+    img,
+    audio {
+        max-width: 100%;
+        max-height: 100%;
+    }
+  </style>
+  <body2>
+    <label for="api-url">Enter API URL:</label>
+    <input type="text" id="api-url" placeholder="Enter API URL">
+    <button id="load-button" onclick="loadData()">Load Data</button>
+
+    <div id="media-container"></div>
+
+    <script>
+        function loadData() {
+            var apiUrl = document.getElementById('api-url').value;
+
+            // Making a GET request to the API
+            fetch(apiUrl)
+                .then(response => response.json())
+                .then(data => displayMedia(data))
+                .catch(error => console.error('Error fetching data:', error));
+        }
+
+        function displayMedia(data) {
+            var mediaContainer = document.getElementById('media-container');
+            mediaContainer.innerHTML = ''; // Clear previous content
+
+            if (data.url.endsWith('.jpg') || data.url.endsWith('.jpeg') || data.url.endsWith('.png')) {
+                // Display image
+                var imgElement = document.createElement('img');
+                imgElement.src = data.url;
+                imgElement.alt = 'Image';
+                mediaContainer.appendChild(imgElement);
+            } else if (data.url.endsWith('.mp4') || data.url.endsWith('.webm') || data.url.endsWith('.ogg')) {
+                // Display video
+                var videoElement = document.createElement('video');
+                videoElement.src = data.url;
+                videoElement.controls = true;
+                videoElement.autoplay = true; // Thêm thuộc tính autoplay
+                mediaContainer.appendChild(videoElement);
+            } else if (data.url.endsWith('.mp3') || data.url.endsWith('.wav') || data.url.endsWith('.ogg') || data.url.endsWith('.mpga')) {
+                // Display audio
+                var audioElement = document.createElement('audio');
+                audioElement.src = data.url;
+                audioElement.controls = true;
+                mediaContainer.appendChild(audioElement);
+            } else {
+                // Unsupported media type
+                mediaContainer.innerHTML = '<p>Unsupported media type</p>';
+            }
+        }
+    </script>
+  </body2>
+</html>

@@ -1,0 +1,19 @@
+{
+  "keys": [
+    {
+      "key": "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",
+      "provider": "anthropic",
+      "active": true,
+      "usageCount": 1,
+      "lastUsed": "2025-01-03T00:38:53.849Z"
+    },
+    {
+      "key": "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",
+      "provider": "anthropic",
+      "active": true,
+      "usageCount": 0,
+      "lastUsed": null
+    }
+  ],
+  "currentKeyIndex": 0
+}

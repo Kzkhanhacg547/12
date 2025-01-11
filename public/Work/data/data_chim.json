@@ -1,0 +1,376 @@
+[
+  {
+    "ID":"1",
+    "name":"Chim Bồ Câu",
+    "money":"2000",
+    "data1": "https://imgur.com/gAbSIar.jpg",
+    "type":"Thường",
+    "level":"Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy"
+  },
+  {
+    "ID":"2",
+    "name":"Chim Sẻ",
+    "money":"2300",
+    "data1":"https://imgur.com/wXw1Njh.jpg",
+    "type":"Thường",
+    "level":"Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy"
+  },
+  {
+    "ID":"3",
+    "name":"Chim Gõ Kiến",
+    "money":"2400",
+    "data1":"https://imgur.com/w1E4W6w.jpg",
+    "type":"Thường",
+    "level":"Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy"
+  },
+  {
+    "ID":"4",
+    "name":"Chim Diều Hâu",
+    "money":"3400",
+    "data1":"https://imgur.com/pDF8mLo.jpg",
+    "type":"Thường",
+    "level":"Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy"
+  },
+  {
+    "ID":"5",
+    "name":"Kền Kền",
+    "money":"4200",
+    "data1":"https://imgur.com/cIfcArd.jpg",
+    "type":"Thường",
+    "level": "Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy"
+  },
+  {
+    "ID":"6",
+    "name":"Chim Quạ",
+    "money":"4342",
+    "data1":"https://imgur.com/U3xzqpG.jpg",
+    "type":"Thường",
+    "level":"Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy"
+  },
+  {
+    "ID":"7",
+    "name":"Chim Én",
+    "money":"3400",
+    "data1":"https://imgur.com/pzxO7xo.jpg",
+    "type":"Thường",
+    "level":"Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy"
+  },
+  {
+    "ID":"8",
+    "name":"Chim Ruồi",
+    "money":"3400",
+    "data1":"https://imgur.com/uoTkJnE.jpg",
+    "type":"Thường",
+    "level":"Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Đơn Độc"
+  },
+  {
+    "ID":"9",
+    "name":"Chim Sâu",
+    "money":"3420",
+    "data1":"https://imgur.com/dDeJDq0.jpg",
+    "type":"Thường",
+    "level":"Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy"
+  },
+  {
+    "ID":"10",
+    "name":"Chào Mào",
+    "money":"3500",
+    "data1":"https://imgur.com/Poez4gE.jpg",
+    "type":"Thường",
+    "level":"Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy"
+  },
+  {
+    "ID":"11",
+    "name":"Xoè Quạt",
+    "money":"5000",
+    "data1":"https://imgur.com/Dvaw6pf.jpg",
+    "type":"Thường",
+    "level":"Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy"
+  },
+  {
+    "ID":"12",
+    "name":"Chích Choè Lửu",
+    "money":"4600",
+  "data1":"https://imgur.com/KByMubS.jpg",
+    "type":"Thường",
+    "level":"Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy"
+  },
+  {
+    "ID":"13",
+    "name":"Chim Sơn Ca",
+    "money":"4510",
+    "data1":"https://imgur.com/oFliIfs.jpg",
+    "type":"Thường",
+    "level":"Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy"
+  },
+  {
+    "ID":"14",
+    "name":"Chim Sáo",
+    "money":"4700",
+    "data1":"https://imgur.com/HqE4syB.jpg",
+    "type":"Thường",
+    "level":"Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy"
+  },
+{
+    "ID":"15",
+    "name":"khổng Tước Trắng",
+    "money":"5900",
+    "data1":"https://imgur.com/MUbYCG0.jpg",
+    "type":"Thường",
+    "level":"Nguy Hiểm Vừa",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy"
+  },
+  {
+    "ID":"16",
+    "name":"Chim Công",
+    "money":"7320",
+    "data1":"https://imgur.com/4lpqv6C.jpg",
+    "type":"Trung",
+    "level":"Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy Đàn"
+  },
+{
+    "ID":"17",
+    "name":"Chim Thiên Đường",
+    "money":"7580",
+    "data1":"https://imgur.com/182rhF3.jpg",
+    "type":"Trung",
+    "level":"Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy Đàn"
+  },{
+    "ID":"18",
+    "name":"Hồng Hạc",
+    "money":"7581",
+    "data1":"https://imgur.com/XmxrdP5.jpg",
+    "type":"Trung",
+    "level":"Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy Đàn"
+  },{
+    "ID":"19",
+    "name":"Chim Đại Bàng",
+    "money":"6918",
+    "data1":"https://imgur.com/L4Sy5kt.jpg",
+    "type":"Trung",
+    "level":"Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Đơn Độc"
+  },{
+    "ID":"20",
+    "name":"Vẹt Macaw",
+    "money":"6028",
+    "data1":"https://imgur.com/ked34E7.jpg",
+    "type":"Trung",
+    "level":"Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy Đàn"
+  },{
+    "ID":"21",
+    "name":"Tucan mỏ lục",
+    "money":"5403",
+    "data1":"https://imgur.com/NcxI0eJ.jpg",
+    "type":"Trung",
+    "level":"Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy Đàn"
+  },{
+    "ID":"22",
+    "name":"Uyên Ương",
+    "money":"6001",
+    "data1":"https://imgur.com/UhCOU6e.jpg",
+    "type":"Trung",
+    "level":"không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy Đàn"
+  },{
+    "ID":"23",
+    "name":"Chào Mào Đỏ Phương Bắc",
+    "money":"5800",
+    "data1":"https://imgur.com/lZt77c0.jpg",
+    "type":"Trung",
+    "level":"Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy Đàn"
+    },
+{
+    "ID":"24",
+    "name":"Bói Cá",
+    "money":"5300",
+    "data1":"https://imgur.com/nmEkmrX.jpg",
+    "type":"Trung",
+    "level":"Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Đơn Độc"
+  },
+{
+    "ID":"25",
+    "name":"Sẻ Đất Màu",
+    "money":"6200",
+    "data1":"https://imgur.com/uUnu5bC.jpg",
+    "type":"Trung",
+    "level":"Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy Đàn"
+  },
+  {
+  "ID":"26",
+    "name":"Chim Khổng Lồ isb",
+    "money":"7800",
+    "data1":"https://imgur.com/xOpdSuT.jpg",
+    "type":"Hiếm",
+    "level":"Nguy Hiểm Vừa",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy"
+    },
+      {
+  "ID":"27",
+    "name":"Cú Muỗi",
+    "money":"6890",
+    "data1":"https://imgur.com/Onm13bZ.jpg",
+    "type":"Hiếm",
+    "level":"Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy"
+    },
+      {
+  "ID":"28",
+    "name":"Kền Kền Khoang Cổ California",
+    "money":"7200",
+    "data1":"https://imgur.com/WfpWscs.jpg",
+    "type":"Hiếm",
+    "level":"Nguy Hiểm Vừa",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy"
+    },
+      {
+  "ID":"29",
+    "name":"Vẹt Đêm New Zealand",
+    "money":"7800",
+    "data1":"https://imgur.com/zIctg2N.jpg",
+    "type":"Hiếm",
+    "level":"Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy"
+    },
+      {
+  "ID":"30",
+    "name":"Chim Garu",
+    "money":"7500",
+    "data1":"https://imgur.com/Wf67OCr.jpg",
+    "type":"Hiếm",
+    "level":"Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy"
+    },
+      {
+  "ID":"31",
+    "name":"Chim dodo",
+    "money":"8000",
+    "data1":"https://imgur.com/7xMJ2wT.jpg",
+    "type":"Cực Hiếm",
+    "level":"Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy"
+    },
+  {
+      "ID":"32",
+    "name":"An Ca lớn",
+    "money":"8000",
+    "data1":"https://imgur.com/yfvTx2V.jpg",
+    "type":"Cực Hiếm",
+    "level":"Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy"
+    },
+  {
+      "ID":"33",
+    "name":"Chim Huia",
+    "money":"8220",
+    "data1":"https://imgur.com/GXhF06M.jpg",
+    "type":"Cực Hiếm",
+    "level":"Nguy Hiểm Vừa",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy"
+    },
+  {
+      "ID":"34",
+    "name":"Bồ Câu Viễn Khách",
+    "money":"8100",
+    "data1":"https://imgur.com/1hrhMXH.jpg",
+    "type":"Cực Hiếm",
+    "level":"Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy"
+    },
+  {
+      "ID":"35",
+    "name":"Chim Lặn Alaotra Grebe",
+    "money":"8102",
+    "data1":"https://imgur.com/JgR8Dcb.jpg",
+    "type":"Cực Hiếm",
+    "level":"Không Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Theo Bầy"
+    },
+    {
+      "ID":"36",
+    "name":"Phượng Hoàng Lửa",
+    "money":"12000",
+    "data1":"https://imgur.com/Edg6WqQ.jpg",
+    "type":"Thần Thú",
+    "level":"Siêu Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Đơn Độc"
+    },
+    {
+      "ID":"37",
+    "name":"Kim Sí Đại Bàng",
+    "money":"13000",
+    "data1":"https://imgur.com/JmyOK7i.jpg",
+    "type":"Thần Thú",
+    "level":"Cực Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Theo Bầy Đàn"
+    },
+    {
+      "ID":"38",
+    "name":"Tam Túc Kim Ô",
+    "money":"15000",
+    "data1":"https://imgur.com/LrymvXJ.jpg",
+    "type":"Thần Thú",
+    "level":"Siêu Nguy Hiểm",
+    "species": "Chim",
+    "calculation": "Sống Đơn Độc"
+  }
+]

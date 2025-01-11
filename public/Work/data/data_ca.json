@@ -1,0 +1,210 @@
+[
+    {
+    "ID": "rophi",
+     "name":"Cá Rô Phi",
+      "data1":"https://sv3.anh365.com/images/2023/07/20/preview2_ca-ro-phi-removebg-preview.png",
+      "rarity": "Thường",
+      "money": "1000",
+      "des": "Cá rô phi là tên thông thường của một nhóm loài cá nước ngọt phổ biến, nhưng một số loài trong chúng cũng có thể sống trong các môi trường nước lợ hoặc nước mặn, chúng sống chủ yếu tại sông suối, kênh rạch, ao hồ[1]. Đây là giống cá thuộc họ Cichlidae gồm có nhiều chủng loại, có nguồn gốc phát sinh từ châu Phi và Trung Đông. Một trong những loài đặc hữu của họ cá này là Cá rô phi đỏ (Oreochromis sp), cá rô phi xanh (Oreochromis aureus) và rô phi vằn (Oreochromis niloticus). Là loài cá có giá trị kinh tế và thông dụng trong bữa ăn, cá rô phi được du nhập đi nhiều nơi và nhiều loài đã trở thành loài xâm lấn."
+    },
+  {
+     "ID": "caro",
+     "name":"Cá Rô Đồng",
+     "data1":"https://sv3.anh365.com/images/2023/07/20/420px-Anabas_testudineus-removebg-preview.png",
+     "rarity": "Thường",
+     "money": "1100",
+     "des":"Cá rô là một tên gọi thông dụng tại Việt Nam, dùng chung cho một số loài cá thuộc bộ Cá vược, trong đó có nhiều loài thuộc về Chi Cá rô. Ở Việt Nam, thuật ngữ cá rô còn được hiểu là cá rô đồng, một loài cá phổ biến tại quốc gia này, người miền Tây thường phát âm cá rô chệch thành cá gô."
+  },
+  {
+     "ID": "cachot",
+     "name":"Cá Chốt", 
+     "data1":"https://sv3.anh365.com/images/2023/07/20/Mystus_albolineatus-removebg-preview.png",
+     "rarity": "Thường",
+     "money": "1300",
+     "des":"Loài cá này có đặc điểm đầu nhỏ, miệng tù với 4 đôi râu. Phần thân dẹp và ánh lên màu vàng nghệ. Trên thân có nhiều ngạnh rất nhọn, khi chích vào tay gây đau nhức từ 1 - 3 ngày, nên cá chốt một thời được xem là nỗi ám ảnh đối với bà con làm nghề đánh bắt cá ở miền Tây."
+  },
+{
+  "ID": "caloc",
+     "name":"Cá Lóc đồng",
+      "data1":"https://sv3.anh365.com/images/2023/07/20/caloccondaugiarequan12-9127-removebg-preview.png",
+      "rarity": "Thường",
+      "money": "1500",
+      "des":"Cá lóc đồng[4] còn gọi là cá lóc, cá tràu, cá quả, cá chuối đen, cá lóc đen, cá chuối sộp (danh pháp khoa học: Channa striata) là một loài cá lóc bản địa của vùng Nam Á và Đông Nam Á, chúng hay sinh sống ở các đồng ruộng. Cá lóc đồng là một nguồn thực phẩm quan trọng của các cư dân bản địa và chúng đã được du nhập đến một số vùng đảo thuộc Thái Bình Dương."
+},
+    {
+  "ID": "laukinh",
+  "name": "Cá Lau Kính",
+  "data1": "https://i.imgur.com/vshja8x.jpeg",
+  "rarity": "Thường",
+  "money": "1500",
+  "des": "được đặt tên bởi các hàng dọc giống như áo giáp bao phủ phần trên của đầu và thân (bề mặt dưới của đầu và bụng để trần) của nó. Mặc dù cái tên Hypostomus plecostomus thường được sử dụng để chỉ những loài cá lau kính thông thường được bán trong các cửa hàng cá cảnh, đa số thực sự là những thành viên của các chi khác.[1][8] Tại Việt Nam, nó (cùng với vài loài cá cảnh khác) còn thường được gọi là cá dọn bể, cá lau kiếng hay cá tỳ bà. Nhiều người còn gọi vui nó là cá mặt quỷ. Nó có tên tiếng Anh là suckermouth catfish, giới buôn bán cá cảnh gọi nó là common pleco."
+    },
+  {
+  "ID": "catra",
+     "name":"Cá Tra - Dồ",
+     "data1":"https://sv3.anh365.com/images/2023/07/20/ca-tra_1_-removebg-preview.png",
+     "rarity": "Thường",
+     "money": "1570",
+     "des":"Cá tra là cá da trơn thân dài, lưng xám đen, bụng hơi bạc, miệng rộng, có 2 đôi râu dài. Cá tra sống chủ yếu trong nước ngọt, có thể sống được ở vùng nước hơi lợ (nồng độ muối 7-10 o/oo), có thể chịu đựng được nước phèn với pH >5, dễ chết ở nhiệt độ thấp dưới 15 oC, nhưng chịu nóng tới 45 oC."
+  },
+    {
+  "ID": "came",
+  "name": "Cá Mè",
+  "data1": "https://i.imgur.com/Stwm9GN.jpeg",
+  "rarity": "Thường",
+  "money": "1777",
+  "des": "Giống cá này được đánh giá là giống cá nước ngọt dễ nuôi lại có hiệu quả kinh tế cao. Chính vì thế nhiều nơi đã và đang cho nuôi thâm canh giống cá này. Cũng như cá mè nó chủ yếu sống ở tầng trên hoặc giữa với môi trường nước từ 0 đến 25 độ và độ mặn dao động từ 7 đến 11%."
+    },
+    {
+  "ID": "catre",
+  "name": "Cá Trê",
+  "data1": "https://sv3.anh365.com/images/2023/07/20/Ca-tre-vang-Clarias-macrocephalus-removebg-preview.png",
+  "rarity": "Thường",
+  "money": "1590",
+  "des": "Cá trê vàng có cấu tạo thân thon dài và hẹp dần về phía đuôi. Đầu cá to, rộng và dẹp đứng, đầu có 4 đôi râu dài đến khoảng gốc vây ngực. Gốc xương chẩm có hình vòng cung."
+    },
+    {
+  "ID": "caco",
+  "name": "Cá Chấm Cỏ",
+  "data1": "https://sv3.anh365.com/images/2023/07/20/ca_cham_co-removebg-preview.png",
+  "rarity": "Thường",
+  "money": "1670",
+  "des": "Đây là giống cá thuộc họ cá chép được nuôi nhiều ở phía Nam, chiều dài cá có thể đạt từ 12 đến 20cm. Giống cá này ăn tạp, thức ăn cũng dẽ kiếm và phong phú. Nhưng chủ yếu là mùn bã hữu cơ hay sinh vật phù du. 6 tháng sau nuôi đã có thể đạt từ 150 đến 240g 1 con rồi."
+    },
+    {
+  "ID": "cachim",
+  "name": "Cá Chim",
+  "data1": "https://i.imgur.com/KRo5pyW.jpeg",
+  "rarity": "Thường",
+  "money": "1520",
+  "des": "Loại cá này khi nuôi trong ao sẽ sống ở tầng giữa và tầng đáy. Chúng sẽ đi săn theo đàn. Bạn cũng có thể nuôi ở ruộng hay lồng bè đều được."
+    },
+  {
+    "ID": "luon",
+     "name":"Lươn",
+     "data1":"https://i.imgur.com/Ts3vYd2.jpeg",
+     "rarity": "Trung",
+     "money": "2025",
+     "des":"Chiều dài thân trung bình khoảng 25–40 cm, mặc dù có cá thể dài tới 1 m. Thân hình trụ, da trần không vảy, thiếu vây chẵn, vây lưng nối liền với vây đuôi, vây hậu môn. Các vây không có gai, mang thoái hóa thành một lỗ phía dưới đầu. Đuôi vót nhọn."
+  },
+  {
+  "ID": "dieuhong",
+  "name": "Cá Diêu Hồng",
+  "data1": "https://i.imgur.com/bvPfa1m.jpeg",
+  "rarity": "Trung",
+  "money": "2370",
+  "des": "Cá diêu hồng là một loài cá nước ngọt, được hình thành qua quá trình chọn lọc nhân tạo nên môi trường sống chủ yếu là nuôi nhốt. Cá thích hợp với nguồn nước có độ pH: 6,2 – 7,5, khả năng chịu phèn kém nhưng có thể phát triển tốt ở vùng nước nhiễm mặn nhẹ 5 – 12%o cá sống trong mọi tầng nước."
+  },
+    {
+  "ID": "cangu",
+  "name": "Cá Ngừ Mắt To",
+  "data1": "https://i.imgur.com/SnDdiWs.jpeg",
+  "rarity": "Trung",
+  "money": "2370",
+  "des": "Cá ngừ mắt to (Danh pháp khoa học: Thunnus obesus) là một loài cá ngừ trong họ Cá thu ngừ với đặc trưng là có con mắt lớn so với kích thước cơ thể trong tương quan với các loại cá ngừ khác. Cá phân bố ở vùng nhiệt đới và cận nhiệt đới Ấn Độ Dương, Thái Bình Dương tới 30oS. Ở Việt Nam, phân bố chủ yếu ở vùng biển xa bờ miền Trung và Đông Nam Bộ.[3]"
+    },
+    {
+  "ID": "cahoi",
+  "name": "Cá Hồi",
+  "data1": "https://i.imgur.com/HTc5jX6.jpeg",
+  "rarity": "Trung",
+  "money": "2400",
+  "des": "Cá hồi là tên chung cho nhiều loài cá thuộc họ Salmonidae. Nhiều loại cá khác cùng họ được gọi là trout (cá hồi); sự khác biệt thường được cho là cá hồi salmon di cư còn cá hồi trout không di cư, nhưng sự phân biệt này không hoàn toàn chính xác. Cá hồi sống dọc các bờ biển tại cả Bắc Đại Tây Dương (các họ di cư Salmo salar) và Thái Bình Dương (khoảng sáu họ của giống Oncorhynchus), và cũng đã từng được đưa tới Hồ lớn ở Bắc Mỹ. Cá hồi được sản xuất nhiều trong ngành nuôi trồng thủy sản ở nhiều nơi trên thế giới."
+    },
+    {
+  "ID": "cachep",
+  "name": "Cá Chép",
+  "data1": "https://i.imgur.com/0vxEJB9.jpeg",
+  "rarity": "Trung",
+  "money": "3410",
+  "des": "Cá chép (tên khoa học là Cyprinus carpio, là một loài cá nước ngọt phổ biến rộng khắp thế giới. Chúng có quan hệ họ hàng xa với cá vàng thông thường và chúng có khả năng lai giống với nhau. Tên gọi của nó cũng được đặt cho một họ là họ Cá chép (Cyprinidae)."
+    },
+    {
+  "ID": "canoc",
+  "name": "Cá Nóc",
+  "data1": "https://i.imgur.com/8OQMEPm.jpeg",
+  "rarity": "Trung",
+  "money": "2390",
+  "des": "họ cá Uranoscopidae, Daector, Thalassophryne trong đó có thể kể đến các loài cá nóc với những vụ ngộ độc thực phẩm cho nhiều trường hợp người ăn gây nên những vụ việc nổi cộm. Ngoài ra, không chỉ cá nóc mới có chất độc. Một số loại cá thông thường người ta hay ăn cũng chứa độc tố, chẳng hạn như cá trích, cá ngừ, cá chình, cá mòi đường..."
+    },
+    {
+  "ID": "cathu",
+  "name": "Cá Thu",
+  "data1": "https://i.imgur.com/tdG53c6.jpeg",
+  "rarity": "Trung",
+  "money": "2425",
+  "des": "Cá thu là tên thông thường áp dụng cho một số loài cá khác nhau chủ yếu là thuộc họ Cá thu ngừ. Chúng sinh sống cả ở các vùng biển nhiệt đới và biển ôn đới. Phần lớn các loại cá thu sống xa bờ ở môi trường đại dương nhưng có một số, ví dụ Cá thu Tây Ban Nha (tiếng Anh: Spanish mackerel, tên khoa học Scomberomorus maculatus) vào gần bờ và có thể tìm thấy ở gần các cầu và cầu tàu. Loại cá thu lớn nhất là Cá thu Vua (tên khoa học Scomberomorus cavalla) có thể dài tới 1,68 m. Đặc điểm chung của các loại cá thu là thân dài, thon (khác với cá ngừ đại dương là loài có thân bầu), có nhiều vây nhỏ nằm sau các vây lớn ở lưng và bụng. Cá thu nếu có vẩy thì cũng rất nhỏ."
+    },
+    {
+  "ID": "camoi",
+  "name": "Cá Mồi",
+  "data1": "https://i.imgur.com/sU818rU.jpeg",
+  "rarity": "Trung",
+  "money": "3455",
+  "des": "Cá mòi (tên tiếng Anh: pilchard hay sardine) là một vài loài cá dầu nhỏ thuộc họ cá trích. Tên Sardine được đặt theo một hòn đảo địa Trung Hải của Sardina nơi chúng đã từng sống dạt dào. Từ ngữ Sardine và pilchard không được chính xác, và ý nghĩa thông thường khác nhau theo từng địa phương."
+    },
+  {
+  "ID": "cakiem",
+  "name": "Cá Kiếm",
+  "data1": "https://i.imgur.com/tdrQeVN.jpeg",
+  "rarity": "Hiếm",
+  "money": "4700",
+  "des": "Cá kiếm, cá mũi kiếm, đôi khi còn gọi là cá đao (danh pháp khoa học: Xiphias gladius) là một loài cá ăn thịt loại lớn, có tập tính di cư với mỏ dài và phẳng, ngược lại với mỏ tròn và trơn nhẵn của các loài cá maclin. Nó là một loại cá thể thao phổ biến, cho dù hơi khó bắt. Cá kiếm có thân hình tròn và thuôn dài, khi trưởng thành mất hết toàn bộ răng và vảy. Kích thước tối đa là 4,3 m (14 ft) và 536 kg (1.182 pao). Đây là kỷ lục câu cá bằng mọi dụng cụ của Hiệp hội câu cá quốc tế (IGFA) đối với con cá kiếm bắt được ngoài khơi Chile năm 1953."
+  },
+  {
+  "ID": "matquy",
+  "name": "Cá Mặt Quỷ",
+  "data1": "https://i.imgur.com/AZnSeCK.jpeg",
+  "rarity": "Hiếm",
+  "money": "4630",
+  "des": "Cá mặt quỷ hay còn gọi là cá mang ếch, cá mao ếch (Danh pháp khoa học: Synanceia) là một chi cá thuộc họ Cá mao mặt quỷ (Synanceiidae) loài điển hình của chi này là Synanceia verrucosa.[1][2] Đây là loài cá có bề ngoài dữ tợn nhưng lại có giá trị ẩm thực[3]."
+  },
+  {
+  "ID": "mattrang",
+  "name": "Cá Mặt Trăng",
+  "data1": "https://i.imgur.com/z0z0jmh.jpeg",
+  "rarity": "Hiếm",
+  "money": "4850",
+  "des": "Đây là một loài cá biển cỡ lớn có màu sắc sặc sỡ và thân ngắn sống ngoài đại dương, thường lặn xuống dưới vùng nước sâu, nơi nhiệt độ rất thấp. Cá mặt trăng sống ở tầng mặt, tự sưởi não và mắt ấm hơn so với nhiệt độ nước biển nơi chúng sống. Theo tiếng Pháp, tiếng Tây Ban Nha, tiếng Bồ Đào Nha, tiếng Ý, tiếng Hà Lan, tiếng Nga... thì loài cá này có tên là cá mặt trăng, trong khi tên tiếng Anh của chúng là ocean sunfish nghĩa là cá thái dương. Chúng được đặt tên là cá mặt trời bởi người ta tin chúng tắm nắng trên mặt biển vì thường thấy chúng bơi ì ạch sát mặt nước.[6]"
+  },
+  {
+  "ID": "bachtuoc",
+  "name": "Bạch Tuộc",
+  "data1": "https://i.imgur.com/HTStz9M.jpeg",
+  "rarity": "Hiếm",
+  "money": "3800",
+  "des": "Bạch tuộc là một loại động vật không xương sống với thân ngắn, mềm, hình ôvan (oval), thuộc bộ Octopoda sống dưới đáy biển. Có khoảng 299 đến 300 loài bạch tuộc trên Trái Đất, chiếm hơn 1/3 tổng số động vật thân mềm."
+  },
+  {
+  "ID": "carong",
+  "name": "Cá Rồng",
+  "data1": "https://i.imgur.com/k65NX3l.jpeg",
+  "rarity": "Hiếm",
+  "money": "4900",
+  "des": "Cá rồng Huyết long (danh pháp khoa học: Scleropages Legendrei) thuộc họ Cá rồng, phân bố ở thượng lưu sông Kapuas và vùng hồ Sentarum, tỉnh Tây Kalimantan, đảo Borneo, Indonesia"
+  },
+  {
+  "ID": "camap",
+  "name": "Cá Mập Megalodon",
+  "data1": "https://i.imgur.com/HY9FV6c.jpeg",
+  "rarity": "Cực Hiếm",
+  "money": "9000",
+  "des": "Megalodon (nghĩa là răng lớn từ tiếng Hy Lạp cổ đại) là một loài cá mập khổng lồ đã tuyệt chủng, sống cách nay khoảng 15.9 tới 2.6 triệu năm, vào thời kỳ Đại Tân Sinh (Miocen giữa tới Pliocen muộn).[7] Thuộc Lớp Cá sụn"
+  },
+    {
+  "ID": "mapbua",
+  "name": "Cá Mập Đầu Búa",
+  "data1": "https://i.imgur.com/tAfRr7S.jpeg",
+  "rarity": "Cực Hiếm",
+  "money": "8750",
+  "des": "Cá nhám búa vây đen hay cá mập đầu búa vỏ sò[3], tên khoa học Sphyrna lewini, là một loài cá nhám búa, họ Sphyrnidae. Nó chủ yếu sống ở vùng nước ven biển ôn đới và nhiệt đới, giữa vĩ độ 46 ° Tây và 36 ° Đông, xuống tới độ sâu 500 mét (1.600 ft). Nó là loài cá mập đầu búa phổ biến nhất. Chúng không được xem là nguy hiểm và thường không tấn công con người."
+    },
+  {
+  "ID": "cavoi",
+  "name": "Cá Voi Sát Thủ",
+  "data1": "https://i.imgur.com/0TokRgy.jpeg",
+  "rarity": "Cực Hiếm",
+  "money": "7600",
+  "des": "Cá voi sát thủ, còn gọi là cá heo đen lớn hay cá hổ kình (danh pháp hai phần: Orcinus orca) là một loài cá heo thuộc phân bộ cá voi có răng, họ hàng là cá heo đại dương. Đây là phân loài cá voi lớn nhất trong họ. Cá voi sát thủ sống tại tất cả các đại dương trên thế giới, từ Bắc Băng Dương và vùng châu Nam Cực cho đến các vùng biển nhiệt đới ấm áp."
+  }
+]

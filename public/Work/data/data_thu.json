@@ -1,0 +1,242 @@
+[
+  {
+    "ID": "1",
+    "name":"Chim Cánh Cụt",
+    "data": "https://sv3.anh365.com/images/2023/07/20/101222-hoang-da2.jpg",
+    "money":"1200",
+    "type": "Thường",
+    "level": "Không Nguy Hiểm"
+  },
+    {
+    "ID": "2",
+    "name":"Sóc",
+    "data": "https://sv3.anh365.com/images/2023/07/20/Hinh-anh-cac-con-vat-ngo-nghinh-dang-yeu.jpg",
+    "money":"1455",
+    "type": "Thường",
+    "level": "Không Nguy Hiểm"
+  },
+    {
+    "ID": "3",
+    "name":"Mèo",
+    "data": "https://sv3.anh365.com/images/2023/07/20/Bo-suu-tap-hinh-nen-dong-vat-dang-yeu-kute.jpg",
+    "money":"2200",
+    "type": "Thường",
+    "level": "Không Nguy Hiểm"
+  },
+    {
+    "ID": "4",
+    "name":"Thỏ",
+    "data": "https://sv3.anh365.com/images/2023/07/20/hinh-anh-dong-vat-sinh-dong-de-thuong-hinhanhonline-3.jpg",
+    "money":"2400",
+    "type": "Thường",
+    "level": "Không Nguy Hiểm"
+  },
+    {
+    "ID": "5",
+    "name":"Trâu",
+    "data": "https://sv3.anh365.com/images/2023/07/20/Water_buffalo_the_feet_in_a_pond_looking_at_the_viewer_at_golden_hour_in_Laos.jpg",
+    "money":"2800",
+    "type": "Thường",
+    "level": "Không Nguy Hiểm"
+  },
+    {
+    "ID": "6",
+    "name":"Gà",
+    "data": "https://sv3.anh365.com/images/2023/07/20/hinh-anh-ga-trong.jpg",
+    "money":"1800",
+    "type": "Thường",
+    "level": "Không Nguy Hiểm"
+  },
+    {
+    "ID": "7",
+    "name":"Heo - Lợn",
+    "data": "https://sv3.anh365.com/images/2023/07/20/images.jpg",
+    "money":"1657",
+    "type": "Thường",
+    "level": "Không Nguy Hiểm"
+  },
+    {
+    "ID": "8",
+    "name":"Ngựa",
+    "data": "https://sv3.anh365.com/images/2023/07/20/ngua-giong-tot.jpg",
+    "money":"2030",
+    "type": "Thường",
+    "level": "Không Nguy Hiểm"
+  },
+    {
+    "ID": "9",
+    "name":"Ngỗng",
+    "data": "https://sv3.anh365.com/images/2023/07/20/imageaac219d172364d75.png",
+    "money":"2100",
+    "type": "Thường",
+    "level": "Không Nguy Hiểm"
+  },
+    {
+    "ID": "10",
+    "name":"Vịt",
+    "data": "https://sv3.anh365.com/images/2023/07/20/image2cc3da4a26103218.png",
+    "money":"2000",
+    "type": "Thường",
+    "level": "Không Nguy Hiểm"
+  },
+    {
+    "ID": "11",
+    "name":"Bò Thường",
+    "data": "https://sv3.anh365.com/images/2023/07/20/image94c82b4c07d2780a.png",
+    "money":"3000",
+    "type": "Thường",
+    "level": "Không Nguy Hiểm"
+  },
+    {
+    "ID": "12",
+    "name":"Bò Sữa",
+    "data": "https://sv3.anh365.com/images/2023/07/20/image3e4a961e6677ad56.png",
+    "money":"3200",
+    "type": "Thường",
+    "level": "Không Nguy Hiểm"
+  },
+    {
+    "ID": "13",
+    "name":"Dê",
+    "data": "https://sv3.anh365.com/images/2023/07/20/imageb675982355d6277e.png",
+    "money":"3300",
+    "type": "Thường",
+    "level": "Không Nguy Hiểm"
+  },
+    {
+    "ID": "14",
+    "name":"Cừu",
+    "data": "https://sv3.anh365.com/images/2023/07/20/image1cd7e085113a0093.png",
+    "money":"4000",
+    "type": "Thường",
+    "level": "Không Nguy Hiểm"
+  },
+    {
+    "ID": "15",
+    "name":"Chó",
+    "data": "https://sv3.anh365.com/images/2023/07/20/imagedde7614eb7b2bfb2.png",
+    "money":"2000",
+    "type": "Thường",
+    "level": "Không Nguy Hiểm"
+  },
+    {
+    "ID": "16",
+    "name":"Gấu Chó",
+    "data": "https://sv3.anh365.com/images/2023/07/20/pexels-photo-1068554.jpg",
+    "money":"4500",
+    "type": "Hiếm",
+    "level": "Nguy Hiểm Vừa"
+  },
+    {
+    "ID": "17",
+    "name":"Cáo",
+    "data": "https://sv3.anh365.com/images/2023/07/20/loat-anh-dong-vat-hoang-da-hai-huoc-nhat-nam-2022i.jpg",
+    "money":"5000",
+    "type": "Hiếm",
+    "level": "Không Nguy Hiểm"
+  },
+    {
+    "ID": "18",
+    "name":"Gấu Trúc",
+    "data": "https://sv3.anh365.com/images/2023/07/20/photo-13-15769823226791387044963.webp",
+    "money":"5500",
+    "type": "Hiếm",
+    "level": "Không Nguy Hiểm"
+  },
+    {
+    "ID": "19",
+    "name":"Gấu Koala",
+    "data": "https://sv3.anh365.com/images/2023/07/20/pexels-photo-7248214.jpg",
+    "money":"4500",
+    "type": "Hiếm",
+    "level": "Không Nguy Hiểm"
+  },
+    {
+    "ID": "20",
+    "name":"Tê Giác",
+    "data": "https://sv3.anh365.com/images/2023/07/20/Te_giac.jpg",
+    "money":"5030",
+    "type": "Hiếm",
+    "level": "Nguy Hiểm Vừa"
+  },
+    {
+    "ID": "21",
+    "name":"Vượn Cáo",
+    "data": "https://sv3.anh365.com/images/2023/07/20/dv1_1-1645236540976.jpg",
+    "money":"4380",
+    "type": "Hiếm",
+    "level": "Không Nguy Hiểm"
+  },
+    {
+    "ID": "22",
+    "name":"Kì Nhông Mexico",
+    "data": "https://sv3.anh365.com/images/2023/07/20/ky_nhong_KULM.jpg",
+    "money":"5701",
+    "type": "Hiếm",
+    "level": "Không Nguy Hiểm"
+  },
+    {
+    "ID": "23",
+    "name":"Con Lười",
+    "data": "https://sv3.anh365.com/images/2023/07/20/photo1625477160708-1625477160784479123865.webp",
+    "money":"5000",
+    "type": "Hiếm",
+    "level": "Không Nguy Hiểm"
+  },
+    {
+    "ID": "24",
+    "name":"Gà Nước Họng Trắng",
+    "data": "https://sv3.anh365.com/images/2023/07/20/13330418-7013987-image-a-281557475603864-15577447025501113030653-1577966496301543093706.jpg",
+    "money":"5390",
+    "type": "Hiếm",
+    "level": "Không Nguy Hiểm"
+  },
+    {
+    "ID": "25",
+    "name":"Dơi Mặt Nhợt nhạt",
+    "data": "https://sv3.anh365.com/images/2023/07/20/pale-faced-bat-15779664963111704190900.jpg",
+    "money":"4500",
+    "type": "Hiếm",
+    "level": "Nguy Hiểm Vừa"
+  },
+  {
+    "ID": "26",
+    "name":"Cá Heo Hồng",
+     "data": "https://sv3.anh365.com/images/2023/07/20/dn27337-1-1200-8850-1429065649.jpg",
+    "money":"6700",
+    "type": "Cực Hiếm",
+    "level": "Không Nguy Hiểm"
+  },
+  {
+    "ID": "27",
+    "name":"Hổ Thường",
+    "data": "https://sv3.anh365.com/images/2023/07/20/082824_3_YLUM.jpg",
+    "money":"7500",
+    "type": "Cực Hiếm",
+    "level": "Nguy Hiểm"
+  },
+  {
+    "ID": "28",
+    "name":"Báo Hoa Mai",
+    "data": "https://sv3.anh365.com/images/2023/07/20/10-buc-anh-xuat-sac-tai-giai-thuong-nhiep-anh-gia-dong-vat-hoang-da-cua-nam.jpg",
+    "money":"7490",
+    "type": "Cực Hiếm",
+    "level": "Nguy Hiểm"
+  },
+  {
+    "ID": "29",
+    "name":"Khủng Long Bạo Chúa",
+    "data": "https://i.imgur.com/Hz3hVN8.png",
+    "money":"11000",
+    "type": "Cực Hiếm- Tuyệt Chủng",
+    "level": "Nguy Hiểm"
+  },
+  {
+    "ID": "30",
+    "name":"Sư Tử",
+    "data": "https://sv3.anh365.com/images/2023/07/20/imageefb976278cee6cae.png",
+    "money":"10000",
+    "type": "Cực Hiếm - vjp",
+    "level": "Nguy Hiểm"
+  }
+]

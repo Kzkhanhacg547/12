@@ -1,0 +1,172 @@
+[
+{
+"ID":"1",
+"name":"Tyrannosaurus Rex",
+"money":"532145",
+"data1":"https://imgur.com/CFmWDuY.jpg",
+"foot":"2 Chân",
+"danger":"Cực Nguy Hiểm",
+"eat":"Ăn Thịt",
+"des":"Bạn quá nghèo nên quyết định đi săn khủng long và bắt dc khủng long Tyrannosaurus Rex và bán được 532145$"
+},
+{
+"ID":"2",
+"name":"Khủng long cổ dài",
+"money":"457232",
+"data1":"https://imgur.com/uLgJAjp.jpg",
+"foot":"4 chân",
+"danger":"Không Nguy Hiểm",
+"eat":"Ăn Cỏ",
+"des":"Bạn quá nghèo nên quyết định đi săn khủng long và bắt dc khủng long Cổ Dài và bán được 457232$"
+},
+{
+"ID":"3",
+"name":"Khủng long Troodon",
+"money":"472552",
+"data1":"https://imgur.com/H70IlId.jpg",
+"foot":"2 Chân",
+"danger":"Nguy Hiểm",
+"eat":"Ăn Thịt",
+"des":"Bạn quá nghèo nên quyết định đi săn khủng long và bắt dc khủng Troodon và bán được 472552$"
+},
+{
+"ID":"4",
+"name":"Khủng long Giganotosaurus",
+"money":"510843",
+"data1":"https://imgur.com/j7qCYuV.jpg",
+"foot":"2 chân",
+"danger":"Cực Nguy Hiểm",
+"eat":"Ăn Thịt",
+"des":"Bạn quá rảnh rỗi nên quyết định đi săn khủng long và bắt dc khủng Giganotosaurus và bán được 510843$"
+},
+{
+"ID":"5",
+"name":"Khủng long  Allosaurus",
+"money":"478324",
+"data1":"https://imgur.com/3EQZgrF.jpg",
+"foot":"2 chân",
+"danger":"Nguy Hiểm",
+"eat":"Ăn Thịt",
+"des":"Bạn quá rảnh rỗi nên quyết định đi săn khủng long và bắt dc khủng Allosaurus và bán được 478324$"
+},
+{
+"ID":"6",
+"name":"Khủng long Charcharodontosaurus",
+"money":"652134",
+"data1":"https://imgur.com/j8hBMDC.jpg",
+"foot":"2 chân",
+"danger":"Cực Nguy Hiểm",
+"eat":"Ăn Thịt",
+"des":"Bạn có vũ khí mới quyết định đi săn khủng long và bắt được Charcharodontosauru và bán được 652134$"
+},
+{
+"ID":"7",
+"name":"Khủng long Spinosaurus",
+"money":"532142",
+"data1":"https://imgur.com/y7smr3i.jpg",
+"foot":"2 chân",
+"danger":"Nguy Hiểm",
+"eat":"Ăn Thịt",
+"des":"Bạn có vũ khí mới quyết định đi săn khủng long và bắt được Spinosaurus và bán được 532142$"
+},
+{
+"ID":"8",
+"name":"Khủng long sừng",
+"money":"489322",
+"data1":"https://imgur.com/GuEIWAX.jpg ",
+"foot":"4 chân",
+"danger":"Không Nguy Hiểm",
+"eat":"Ăn Cỏ",
+"des":"Bạn đang rảnh rỗi và quyết định đi săn khủng long và bắt được khủng long sừng và bán được 489322$"
+},
+{
+"ID":"9",
+"name":"Ankylosaurus - Khủng Long Bọc Giáp",
+"money":"513292",
+"data1":"https://imgur.com/d0ROBWo.jpg",
+"foot":"4 chân",
+"danger":"Không Nguy Hiểm",
+"eat":"Ăn cỏ",
+"des":"Bạn đang đi dạo trong rừng và bắt được khủng long Ankylosaurus - Khủng Long Bọc Giáp và bán với giá 513292$"
+},
+{
+"ID":"10",
+"name":"Stegosaurus - Khủng Long Vây Kiếm",
+"money":"503214",
+"data1":"https://imgur.com/j32fzJO.jpg",
+"foot":"4 chân",
+"danger":"Không Nguy Hiểm",
+"eat":"Ăn Cỏ",
+"des":"Bạn đang quá nghèo nên quyết định đi săn khủng long bạn bắt được Stegosaurus - Khủng Long Vây Kiếm và bán được 503214$"
+},
+{
+"ID":"11",
+"name":"Allosaurus - Quái Dị Long",
+"money":"702842",
+"data1":"https://imgur.com/Uzbibma.jpg",
+"foot":"2 chân",
+"danger":"Cực Nguy Hiểm",
+"eat":"Ăn Thịt",
+"des":"Bạn có vũ khí mới quyết định đi săn khủng long và bắt được Allosaurus - Quái Dị Long và bán được 702842$"
+},
+{
+"ID":"12",
+"name":"Carnotaurus - Quỷ Bò Ăn Thịt",
+"money":"722384",
+"data1":"https://imgur.com/SDjCjYi.jpg",
+"foot":"4 chân",
+"danger":"Cực Nguy Hiểm",
+"eat":"Ăn Thịt",
+"des":"Bạn có vũ khí mới quyết định đi săn khủng long và bắt được Carnotaurus - Quỷ Bò Ăn Thịt và bán được 722384$"
+},
+{
+"ID":"13",
+"name":"Thằn lằn bay",
+"money":"683223",
+"data1":"https://imgur.com/BGgke4b.jpg",
+"foot":"2 cánh",
+"danger":"Nguy Hiểm",
+"eat":"Ăn Thịt",
+"des":"Bạn đang quá nghèo nên quyết định đi săn khủng long bạn bắt được Thằn lằn bay và bán được 683223$"
+},
+{
+"ID":"14",
+"name":"Lystrosaurus, thằn lằn xẻng",
+"money":"528321",
+"data1":"https://imgur.com/u91uCiw.jpg",
+"foot":"4 chân",
+"danger":"Không Nguy Hiểm",
+"eat":"Ăn Cỏ",
+"des":"Bạn đang đi săn và bắt được Lystrosaurus, thằn lằn xẻng bán với giá 528321$"
+},
+{
+"ID":"15",
+"name":"Compsognathus, khủng long chân thú cỡ nhỏ",
+"money":"543213",
+"data1":"https://imgur.com/LWi0hvV.jpg",
+"foot":"2 chân",
+"danger":"Nguy Hiểm",
+"eat":"Ăn Thịt",
+"des":"Bạn đang đi săn và bắt được Compsognathus, khủng long chân thú cỡ nhỏ bán với giá 543213$"
+},
+{
+"ID":"16",
+"name":"Gallimimus, khủng long chân thú cỡ lớn",
+"money":"582374",
+"data1":"https://imgur.com/UGmgOrE.jpg ",
+"foot":"2 chân",
+"danger":"Nguy Hiểm",
+"eat":"Ăn Thịt",
+"des":"Bạn đang quá nghèo nên quyết định đi săn khủng long bạn bắt được Gallimimus, khủng long chân thú cỡ lớn và bán được 582374$"
+},
+{
+"ID":"17",
+"name":"Pteranodon, thằn lằn sấm",
+"money":"693232",
+"data1":"https://imgur.com/F0RTf1R.jpg",
+"foot":"2 cánh",
+"danger":"Nguy Hiểm",
+"eat":"Ăn Thịt",
+"des":"Bạn đang quá nghèo nên quyết định đi săn khủng long bạn bắt được Thằn lằn sấm và bán được 693232$"
+}
+]

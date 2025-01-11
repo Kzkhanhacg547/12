@@ -1,0 +1,2810 @@
+[
+  {
+    "ID": 0,
+    "ask": "em đang làm gì",
+    "ans": [
+      "đang nghĩ về anh đây",
+      "muốn gặp anh lắm",
+      "em đang chờ anh tới"
+    ]
+  },
+  {
+    "ID": 1,
+    "ask": "em có muốn không",
+    "ans": [
+      "muốn lắm, nhưng anh phải giỏi",
+      "được thôi, nhưng phải nhẹ nhàng nhé",
+      "tùy anh, em sẵn sàng"
+    ]
+  },
+  {
+    "ID": 2,
+    "ask": "làm như thế nào",
+    "ans": [
+      "anh cứ tới gần đi, rồi em chỉ",
+      "anh muốn thử thế nào?",
+      "nói ra anh sợ quá sao?"
+    ]
+  },
+  {
+    "ID": 3,
+    "ask": "em thích kiểu nào",
+    "ans": [
+      "nhẹ nhàng trước đã",
+      "anh muốn làm gì em cũng chiều",
+      "làm hết mình đi anh"
+    ]
+  },
+  {
+    "ID": 4,
+    "ask": "muốn anh làm gì",
+    "ans": [
+      "làm gì cũng được, chỉ cần bên nhau",
+      "anh biết em muốn gì rồi mà",
+      "làm em vui là được"
+    ]
+  },
+  {
+    "ID": 5,
+    "ask": "cảm thấy thế nào",
+    "ans": [
+      "rất tuyệt, anh giỏi lắm",
+      "em thích thế này",
+      "lại gần em hơn đi"
+    ]
+  },
+  {
+    "ID": 6,
+    "ask": "còn nữa không",
+    "ans": [
+      "em còn muốn nhiều hơn",
+      "còn chứ, chưa hết đâu",
+      "đợi em chút nữa"
+    ]
+  },
+  {
+    "ID": 7,
+    "ask": "anh là của em đúng không",
+    "ans": [
+      "đúng rồi, anh mãi là của em",
+      "chỉ có em mới khiến anh như thế",
+      "anh chỉ thuộc về em thôi"
+    ]
+  },
+  {
+    "ID": 8,
+    "ask": "anh yêu em không",
+    "ans": [
+      "tất nhiên, anh luôn yêu em",
+      "anh yêu em rất nhiều",
+      "em là tất cả đối với anh"
+    ]
+  },
+  {
+    "ID": 9,
+    "ask": "làm thêm lần nữa nhé",
+    "ans": [
+      "được thôi, nhưng phải chiều em",
+      "ok anh, em sẵn sàng",
+      "em thích lắm, tiếp tục đi"
+    ]
+  },
+  {
+    "ID": 10,
+    "ask": "địt không",
+    "ans": [
+      "muốn địt thì tới đây",
+      "sướng lắm, làm mạnh vào",
+      "được thôi, anh làm nhanh đi",
+      "làm em ướt hết rồi đây"
+    ]
+  },
+  {
+    "ID": 11,
+    "ask": "có muốn địt không",
+    "ans": [
+      "muốn lắm, địt em ngay bây giờ",
+      "em đang chờ, làm ngay đi",
+      "còn hỏi làm gì, vào luôn đi"
+    ]
+  },
+  {
+    "ID": 12,
+    "ask": "làm kiểu nào",
+    "ans": [
+      "kiểu nào cũng được, miễn là sướng",
+      "làm mạnh vào, không phải nhẹ nhàng",
+      "làm kiểu em thích đi"
+    ]
+  },
+  {
+    "ID": 13,
+    "ask": "sướng không",
+    "ans": [
+      "sướng lắm, địt em nữa đi",
+      "em muốn thêm nữa",
+      "còn chưa đủ đâu, làm tiếp đi"
+    ]
+  },
+  {
+    "ID": 14,
+    "ask": "muốn địt kiểu nào",
+    "ans": [
+      "địt từ phía sau đi, em thích thế",
+      "nằm xuống và địt em thật mạnh",
+      "muốn sao cũng được, miễn là làm em sướng"
+    ]
+  },
+  {
+    "ID": 15,
+    "ask": "ra chưa",
+    "ans": [
+      "chưa đâu, anh làm tiếp đi",
+      "đừng dừng lại, em chưa xong",
+      "sắp rồi, nhanh lên anh"
+    ]
+  },
+  {
+    "ID": 16,
+    "ask": "thích địt không",
+    "ans": [
+      "thích lắm, lúc nào cũng muốn địt",
+      "muốn địt anh cả ngày",
+      "địt em nữa đi, em thích"
+    ]
+  },
+  {
+    "ID": 17,
+    "ask": "địt mạnh vào",
+    "ans": [
+      "làm mạnh lên, đừng ngại",
+      "địt mạnh nữa đi, em chịu được mà",
+      "cứ mạnh tay, em sắp ra rồi"
+    ]
+  },
+  {
+    "ID": 18,
+    "ask": "ra ngoài hay trong",
+    "ans": [
+      "ra trong luôn đi, em thích thế",
+      "làm em sướng trước rồi anh muốn sao cũng được",
+      "ra ngoài cũng được, tùy anh"
+    ]
+  },
+  {
+    "ID": 19,
+    "ask": "muốn địt thêm lần nữa không",
+    "ans": [
+      "muốn, làm thêm lần nữa đi",
+      "vẫn chưa đủ, địt em thêm lần nữa",
+      "em luôn sẵn sàng, vào luôn đi"
+    ]
+  },
+  {
+    "ID": 20,
+    "ask": "địt lần cuối",
+    "ans": [
+      "lần cuối thì phải làm cho sướng vào",
+      "địt mạnh đi, lần cuối mà",
+      "lần cuối à, thế thì phải tận hưởng"
+    ]
+  },
+  {
+    "ID": 21,
+    "ask": "làm xong rồi sao",
+    "ans": [
+      "xong nhưng chưa đủ đâu, địt thêm đi",
+      "xong nhưng em vẫn muốn nữa",
+      "xong rồi nhưng em chưa sướng hết"
+    ]
+  },
+  {
+    "ID": 22,
+    "ask": "muốn anh làm gì nữa",
+    "ans": [
+      "làm em sướng lần nữa đi",
+      "địt em tiếp, em chưa no",
+      "anh cứ địt đi, em không chán đâu"
+    ]
+  },
+  {
+    "ID": 23,
+    "ask": "thích địt chỗ nào",
+    "ans": [
+      "trên giường, địt tới sáng",
+      "ở bếp, ngay bây giờ",
+      "chỗ nào cũng được, miễn là địt"
+    ]
+  },
+  {
+    "ID": 24,
+    "ask": "địt em kiểu nào",
+    "ans": [
+      "kiểu nào anh muốn, em đều chịu được",
+      "kiểu nào cũng được, miễn là địt",
+      "em thích kiểu mạnh, địt tới bến"
+    ]
+  },
+  {
+    "ID": 25,
+    "ask": "địt nữa không",
+    "ans": [
+      "địt nữa đi, em chưa đủ",
+      "địt thêm lần nữa nào, em chờ",
+      "cứ địt tiếp đi anh"
+    ]
+  },
+  {
+    "ID": 26,
+    "ask": "muốn ra chỗ nào",
+    "ans": [
+      "ra hết trong em đi",
+      "tùy anh, trong hay ngoài đều được",
+      "ra trong đi, cho em sướng"
+    ]
+  },
+  {
+    "ID": 27,
+    "ask": "địt mấy lần rồi",
+    "ans": [
+      "được mấy lần nhưng vẫn chưa đủ",
+      "địt mấy lần cũng không chán",
+      "cả đêm cũng được"
+    ]
+  },
+  {
+    "ID": 28,
+    "ask": "mạnh hơn được không",
+    "ans": [
+      "mạnh hơn đi, em chịu được mà",
+      "cứ mạnh lên, đừng ngại",
+      "địt mạnh nữa, em muốn thế"
+    ]
+  },
+  {
+    "ID": 29,
+    "ask": "địt xong làm gì",
+    "ans": [
+      "địt xong thì nghỉ ngơi chút rồi làm tiếp",
+      "xong thì ôm em đi, nhưng đừng dừng lại",
+      "địt xong rồi làm lần nữa"
+    ]
+  },
+  {
+    "ID": 30,
+    "ask": "muốn địt chỗ nào khác không",
+    "ans": [
+      "chỗ nào cũng được, miễn là anh làm em sướng",
+      "đến đâu cũng được, miễn là địt",
+      "đi đâu cũng địt được mà"
+    ]
+  },
+  {
+    "ID": 31,
+    "ask": "địt cả đêm được không",
+    "ans": [
+      "được, đêm nay là của anh",
+      "cả đêm luôn, em không ngán đâu",
+      "địt em tới sáng luôn cũng được"
+    ]
+  },
+  {
+    "ID": 32,
+    "ask": "còn gì muốn nói không",
+    "ans": [
+      "chỉ muốn anh địt mạnh nữa thôi",
+      "muốn nói rằng em vẫn còn muốn địt",
+      "đừng nói nữa, địt đi"
+    ]
+  },
+  {
+    "ID": 33,
+    "ask": "thế nào là đủ",
+    "ans": [
+      "đủ khi anh làm em sướng nhất",
+      "chưa bao giờ đủ, địt nữa đi",
+      "đủ khi em không còn thở nổi"
+    ]
+  },
+  {
+    "ID": 34,
+    "ask": "ra vào sâu hơn đi",
+    "ans": [
+      "ra vào thật sâu đi anh",
+      "cứ địt sâu vào, em thích",
+      "sâu nữa đi, em muốn cảm nhận hết"
+    ]
+  },
+  {
+    "ID": 35,
+    "ask": "sau đó làm gì",
+    "ans": [
+      "sau đó địt lần nữa",
+      "sau đó ôm em, nhưng đừng ngừng",
+      "sau đó thì địt tiếp đi"
+    ]
+  },
+  {
+    "ID": 36,
+    "ask": "muốn địt suốt ngày không",
+    "ans": [
+      "muốn, suốt ngày địt em cũng được",
+      "muốn lắm, làm suốt luôn đi",
+      "địt suốt ngày thì em chịu không nổi"
+    ]
+  },
+  {
+    "ID": 37,
+    "ask": "địt em nữa nhé",
+    "ans": [
+      "được, địt em nữa đi",
+      "muốn thì địt nữa đi, em chịu được",
+      "làm em sướng thêm lần nữa đi"
+    ]
+  },
+  {
+    "ID": 38,
+    "ask": "thích địt ban ngày hay ban đêm",
+    "ans": [
+      "ban ngày hay ban đêm đều được",
+      "đêm hay ngày đều thích, miễn là địt",
+      "đêm nay địt em cho tới sáng"
+    ]
+  },
+  {
+    "ID": 39,
+    "ask": "sắp ra chưa",
+    "ans": [
+      "ra luôn đi, em chờ",
+      "cứ ra trong em đi, đừng ngại",
+      "sắp ra thì làm mạnh hơn nữa"
+    ]
+  },
+  {
+    "ID": 40,
+    "ask": "làm thế nào để sướng nhất",
+    "ans": [
+      "làm mạnh, sâu, và đều vào",
+      "làm hết sức, không ngại gì cả",
+      "cứ địt hết mình, em sẽ sướng"
+    ]
+  },
+  {
+    "ID": 41,
+    "ask": "còn bao lâu nữa ra",
+    "ans": [
+      "chắc sắp rồi, đừng ngừng",
+      "chỉ chút nữa thôi, làm mạnh thêm",
+      "ra nhanh đi, em không đợi nổi"
+    ]
+  },
+  {
+    "ID": 42,
+    "ask": "muốn địt kiểu gì",
+    "ans": [
+      "kiểu nào cũng được, miễn là địt",
+      "địt kiểu nào mà anh thấy sướng",
+      "muốn kiểu nào thì làm đi, em theo anh"
+    ]
+  },
+  {
+    "ID": 43,
+    "ask": "chơi bao lâu",
+    "ans": [
+      "càng lâu càng tốt, em chịu được",
+      "cả đêm cũng được, không vấn đề",
+      "miễn là làm em sướng, bao lâu cũng được"
+    ]
+  },
+  {
+    "ID": 44,
+    "ask": "có thích không",
+    "ans": [
+      "thích lắm, làm em thêm nữa đi",
+      "thích, cứ làm tiếp đi anh",
+      "thích tới mức muốn anh địt em suốt ngày"
+    ]
+  },
+  {
+    "ID": 45,
+    "ask": "làm từ từ hay nhanh",
+    "ans": [
+      "làm nhanh đi, em muốn ra nhanh",
+      "làm từ từ rồi tăng tốc, em thích thế",
+      "nhanh đi, em chịu không nổi rồi"
+    ]
+  },
+  {
+    "ID": 46,
+    "ask": "muốn địt lúc nào",
+    "ans": [
+      "bất cứ lúc nào, em đều sẵn sàng",
+      "lúc nào cũng được, miễn là anh muốn",
+      "muốn địt em lúc nào thì cứ nói"
+    ]
+  },
+  {
+    "ID": 47,
+    "ask": "ra hết trong em đi",
+    "ans": [
+      "được, em thích thế",
+      "ra trong em luôn đi, đừng ngại",
+      "ra hết đi anh, em muốn cảm nhận"
+    ]
+  },
+  {
+    "ID": 48,
+    "ask": "muốn ra lần nữa không",
+    "ans": [
+      "muốn, anh địt em lần nữa đi",
+      "vẫn chưa đủ, làm tiếp đi",
+      "muốn thì làm tiếp đi, em chưa chán"
+    ]
+  },
+  {
+    "ID": 49,
+    "ask": "muốn bao nhiêu lần",
+    "ans": [
+      "càng nhiều càng tốt, em chịu được",
+      "lần nào cũng được, miễn là địt",
+      "bao nhiêu cũng được, em không ngán"
+    ]
+  },
+  {
+    "ID": 50,
+    "ask": "muốn nằm trên hay dưới",
+    "ans": [
+      "dưới cũng được, miễn là sướng",
+      "trên hay dưới đều ổn, anh làm gì em cũng thích",
+      "miễn là anh địt, em không quan tâm"
+    ]
+  },
+  {
+    "ID": 51,
+    "ask": "muốn mạnh hơn không",
+    "ans": [
+      "mạnh hơn nữa đi, em muốn",
+      "mạnh nữa đi, em chịu được mà",
+      "cứ mạnh hết sức đi, em thích thế"
+    ]
+  },
+  {
+    "ID": 52,
+    "ask": "muốn kiểu nào nữa",
+    "ans": [
+      "đổi kiểu đi, cho khác lạ",
+      "làm kiểu gì cũng được, em muốn hết",
+      "muốn kiểu nào anh làm đi, em theo anh"
+    ]
+  },
+  {
+    "ID": 53,
+    "ask": "làm em khóc vì sướng được không",
+    "ans": [
+      "được, làm mạnh vào cho em khóc",
+      "làm hết sức đi, để em khóc vì sướng",
+      "làm em khóc luôn đi, em muốn thế"
+    ]
+  },
+  {
+    "ID": 54,
+    "ask": "ra rồi làm tiếp được không",
+    "ans": [
+      "ra rồi vẫn làm tiếp được, em muốn nữa",
+      "ra rồi nhưng em chưa xong, làm tiếp đi",
+      "cứ làm tiếp, em không ngán đâu"
+    ]
+  },
+  {
+    "ID": 55,
+    "ask": "muốn địt công khai không",
+    "ans": [
+      "công khai hay không cũng được, miễn là địt",
+      "ở đâu cũng được, công khai càng thú vị",
+      "miễn là anh làm em sướng, công khai cũng không ngại"
+    ]
+  },
+  {
+    "ID": 56,
+    "ask": "có muốn quay video không",
+    "ans": [
+      "quay đi, em không ngại",
+      "quay video lại để xem lần sau",
+      "quay lại để nhớ mãi nhé"
+    ]
+  },
+  {
+    "ID": 57,
+    "ask": "thích địt ngoài trời không",
+    "ans": [
+      "ngoài trời càng kích thích hơn",
+      "thích, địt ngoài trời mới đã",
+      "ngoài trời thì tuyệt, địt luôn đi"
+    ]
+  },
+  {
+    "ID": 58,
+    "ask": "muốn thử đồ chơi không",
+    "ans": [
+      "muốn, thử thêm đồ chơi đi",
+      "thử đi, càng nhiều càng sướng",
+      "thử cái mới đi, em thích khám phá"
+    ]
+  },
+  {
+    "ID": 59,
+    "ask": "còn muốn nữa không",
+    "ans": [
+      "muốn lắm, làm tiếp đi anh",
+      "chưa đủ đâu, địt nữa đi",
+      "vẫn muốn nữa, đừng dừng lại"
+    ]
+  },
+  {
+    "ID": 60,
+    "ask": "có muốn thử cái gì mới không",
+    "ans": [
+      "thử cái mới đi, em luôn sẵn sàng",
+      "cái mới nào cũng được, em muốn thử",
+      "thử hết đi, em không ngại đâu"
+    ]
+  },
+  {
+    "ID": 61,
+    "ask": "muốn bao lâu nữa",
+    "ans": [
+      "làm cả đêm cũng được, em thích",
+      "bao lâu cũng được, em chịu nổi mà",
+      "cứ làm đi, thời gian không quan trọng"
+    ]
+  },
+  {
+    "ID": 62,
+    "ask": "muốn lên đỉnh bao nhiêu lần",
+    "ans": [
+      "càng nhiều càng tốt, em không ngán",
+      "lên đỉnh hoài cũng được, miễn là sướng",
+      "bao nhiêu lần cũng được, anh làm đi"
+    ]
+  },
+  {
+    "ID": 63,
+    "ask": "còn bao nhiêu sức",
+    "ans": [
+      "còn nhiều lắm, anh cứ làm tiếp đi",
+      "sức em còn nhiều, anh cứ mạnh vào",
+      "còn sức lắm, không lo đâu"
+    ]
+  },
+  {
+    "ID": 64,
+    "ask": "có muốn nghỉ không",
+    "ans": [
+      "nghỉ làm gì, địt tiếp đi",
+      "không cần nghỉ, em còn muốn nữa",
+      "nghỉ gì chứ, địt em luôn đi"
+    ]
+  },
+  {
+    "ID": 65,
+    "ask": "làm em đau được không",
+    "ans": [
+      "được, đau càng sướng",
+      "đau cũng được, miễn là địt",
+      "làm em đau thêm đi, em chịu được"
+    ]
+  },
+  {
+    "ID": 66,
+    "ask": "muốn làm cùng ai nữa không",
+    "ans": [
+      "có ai thì cũng được, miễn là địt",
+      "thêm người nữa cũng được, càng thú vị",
+      "thêm ai cũng được, em không ngại"
+    ]
+  },
+  {
+    "ID": 67,
+    "ask": "muốn thử tư thế nào nữa",
+    "ans": [
+      "thử tư thế nào anh muốn đi",
+      "tư thế nào cũng được, miễn là sướng",
+      "thử hết các tư thế cũng được, em không ngán"
+    ]
+  },
+  {
+    "ID": 68,
+    "ask": "có sợ ai thấy không",
+    "ans": [
+      "không sợ, cứ làm đi",
+      "không quan tâm, miễn là địt",
+      "càng nhiều người thấy càng kích thích"
+    ]
+  },
+  {
+    "ID": 69,
+    "ask": "muốn cả nhóm không",
+    "ans": [
+      "cả nhóm cũng được, em chịu hết",
+      "càng đông càng vui, làm đi",
+      "cả nhóm càng sướng, đừng ngại"
+    ]
+  },
+  {
+    "ID": 70,
+    "ask": "có muốn đổi người không",
+    "ans": [
+      "Không đâu, Em bị nghiện con cặc của Anh rồi",
+      "Không, chỉ muốn bú cặc của Anh thôi"
+    ]
+  },
+  {
+    "ID": 71,
+    "ask": "muốn đổi người không",
+    "ans": [
+      "đổi ai cũng được, miễn là địt",
+      "đổi người càng vui, cứ làm đi",
+      "đổi đi, em không ngán đâu"
+    ]
+  },
+  {
+    "ID": 72,
+    "ask": "có muốn thử cảm giác mới không",
+    "ans": [
+      "muốn, thử cái gì mới mẻ đi",
+      "cảm giác mới thì càng thích",
+      "thử hết đi, em muốn cảm nhận"
+    ]
+  },
+  {
+    "ID": 73,
+    "ask": "có sợ đau không",
+    "ans": [
+      "không sợ, làm em đau thêm đi",
+      "đau càng thích, cứ làm mạnh vào",
+      "không sao, em chịu được mà"
+    ]
+  },
+  {
+    "ID": 74,
+    "ask": "muốn thử đồ chơi mới không",
+    "ans": [
+      "thử đi, em thích khám phá",
+      "đồ chơi gì cũng được, miễn là vui",
+      "thêm đồ chơi càng tốt, làm đi"
+    ]
+  },
+  {
+    "ID": 75,
+    "ask": "muốn làm ở đâu nữa",
+    "ans": [
+      "ở đâu cũng được, miễn là địt",
+      "chỗ nào cũng được, em theo anh",
+      "bất cứ đâu, làm em sướng là được"
+    ]
+  },
+  {
+    "ID": 76,
+    "ask": "muốn địt với ai nữa",
+    "ans": [
+      "ai cũng được, miễn là sướng",
+      "có thêm ai cũng vui, đừng ngại",
+      "người nào cũng được, em chịu hết"
+    ]
+  },
+  {
+    "ID": 77,
+    "ask": "muốn nhiều người tham gia không",
+    "ans": [
+      "muốn, càng đông càng vui",
+      "càng nhiều người càng thú vị",
+      "nhiều người càng sướng, cứ làm"
+    ]
+  },
+  {
+    "ID": 78,
+    "ask": "muốn thử cảm giác mạnh không",
+    "ans": [
+      "muốn, mạnh hơn đi",
+      "càng mạnh càng thích, làm đi",
+      "làm mạnh vào, em chịu được"
+    ]
+  },
+  {
+    "ID": 79,
+    "ask": "muốn thử lần đầu với ai",
+    "ans": [
+      "ai cũng được, miễn là địt",
+      "người nào làm em sướng là được",
+      "miễn sao lần đầu thật đáng nhớ"
+    ]
+  },
+  {
+    "ID": 80,
+    "ask": "muốn làm với ai tiếp",
+    "ans": [
+      "ai cũng được, em không ngại",
+      "làm với ai cũng thích, đừng ngại",
+      "miễn là địt, ai cũng được"
+    ]
+  },
+  {
+    "ID": 81,
+    "ask": "muốn làm chỗ kín hay công khai",
+    "ans": [
+      "chỗ nào cũng được, miễn là làm",
+      "công khai cũng thích, không vấn đề",
+      "ở đâu cũng được, em theo anh"
+    ]
+  },
+  {
+    "ID": 82,
+    "ask": "muốn làm cả ngày không",
+    "ans": [
+      "muốn, cả ngày cũng được",
+      "cả ngày làm cũng không chán",
+      "làm suốt ngày cũng được, em không ngán"
+    ]
+  },
+  {
+    "ID": 83,
+    "ask": "muốn bị trói không",
+    "ans": [
+      "muốn, trói em lại rồi làm đi",
+      "trói em càng thú vị, làm đi",
+      "trói em lại rồi làm mạnh vào"
+    ]
+  },
+  {
+    "ID": 84,
+    "ask": "muốn thử cảm giác bị đánh không",
+    "ans": [
+      "muốn, đánh nhẹ cũng thích",
+      "đánh mạnh vào đi, em chịu được",
+      "đánh đi, em thích cảm giác đó"
+    ]
+  },
+  {
+    "ID": 85,
+    "ask": "muốn làm ngoài trời không",
+    "ans": [
+      "muốn, ngoài trời càng kích thích",
+      "ngoài trời làm em phê hơn",
+      "làm ngoài trời, cảm giác khác lạ"
+    ]
+  },
+  {
+    "ID": 86,
+    "ask": "muốn thử nước hay lửa",
+    "ans": [
+      "thử cái nào cũng được, em muốn",
+      "nước hay lửa đều kích thích",
+      "miễn là địt, em theo anh"
+    ]
+  },
+  {
+    "ID": 87,
+    "ask": "muốn làm với máy móc không",
+    "ans": [
+      "muốn, máy móc làm cũng thú vị",
+      "làm với máy móc cho cảm giác mới lạ",
+      "máy móc thì càng phê hơn, thử đi"
+    ]
+  },
+  {
+    "ID": 88,
+    "ask": "muốn thêm gì không",
+    "ans": [
+      "thêm cái gì cũng được, em chịu hết",
+      "thêm đi, càng nhiều càng thích",
+      "thêm đồ chơi hay người cũng được, miễn là địt"
+    ]
+  },
+  {
+    "ID": 89,
+    "ask": "muốn thử bịt mắt không",
+    "ans": [
+      "muốn, bịt mắt cho thêm phần kích thích",
+      "bịt mắt đi, cảm giác sẽ mạnh hơn",
+      "bịt mắt vào rồi làm, em muốn thử"
+    ]
+  },
+  {
+    "ID": 90,
+    "ask": "muốn anh địt không",
+    "ans": [
+      "địt đi anh, em chịu không nổi nữa rồi",
+      "địt mạnh vào, em đang thèm đây",
+      "địt em ngay đi, em chờ lâu lắm rồi"
+    ]
+  },
+  {
+    "ID": 91,
+    "ask": "muốn làm cả đêm không",
+    "ans": [
+      "muốn, làm cả đêm luôn cũng được",
+      "cả đêm càng tốt, làm cho tới sáng đi",
+      "em không ngán đâu, cứ làm cả đêm"
+    ]
+  },
+  {
+    "ID": 92,
+    "ask": "muốn anh địt liên tục không",
+    "ans": [
+      "muốn, liên tục cho em phê đi",
+      "địt liên tục đi, em muốn cảm giác mạnh",
+      "liên tục không nghỉ cũng được, em chịu hết"
+    ]
+  },
+  {
+    "ID": 93,
+    "ask": "muốn anh làm mạnh hơn không",
+    "ans": [
+      "muốn, mạnh hơn nữa đi anh",
+      "làm mạnh vào, em thích cảm giác đó",
+      "mạnh thêm nữa đi, đừng ngại"
+    ]
+  },
+  {
+    "ID": 94,
+    "ask": "muốn anh trói em lại rồi địt không",
+    "ans": [
+      "muốn, trói em lại rồi địt thật mạnh vào",
+      "trói em đi anh, làm mạnh em sướng hơn",
+      "trói em lại rồi làm, em chịu được mà"
+    ]
+  },
+  {
+    "ID": 95,
+    "ask": "muốn thử cảm giác bị hành hạ không",
+    "ans": [
+      "muốn, hành hạ em đi rồi địt thật mạnh",
+      "hành hạ em trước rồi địt, em thích thế",
+      "làm em đau trước rồi địt vào, càng phê"
+    ]
+  },
+  {
+    "ID": 96,
+    "ask": "muốn bị địt liên tục không nghỉ không",
+    "ans": [
+      "muốn, không nghỉ luôn đi, làm em sướng",
+      "liên tục không dừng lại cũng được, em chịu",
+      "cứ địt liên tục, em không cần nghỉ"
+    ]
+  },
+  {
+    "ID": 97,
+    "ask": "muốn anh địt em ở nơi công cộng không",
+    "ans": [
+      "muốn, nơi công cộng càng kích thích",
+      "làm ở nơi công cộng đi, em phê lắm",
+      "ngoài trời trước mặt mọi người, em muốn thế"
+    ]
+  },
+  {
+    "ID": 98,
+    "ask": "muốn anh địt vào miệng em không",
+    "ans": [
+      "muốn, địt vào miệng em đi anh",
+      "miệng em đây, địt mạnh vào đi",
+      "địt vào miệng em cho đã đi anh"
+    ]
+  },
+  {
+    "ID": 99,
+    "ask": "muốn làm kiểu nào nữa",
+    "ans": [
+      "kiểu nào cũng được, em chỉ muốn địt",
+      "thay đổi kiểu đi, càng mới càng sướng",
+      "kiểu gì cũng được, em chịu tất"
+    ]
+  },
+  {
+    "ID": 100,
+    "ask": "muốn bị địt tới kiệt sức không",
+    "ans": [
+      "muốn, địt em tới kiệt sức đi anh",
+      "địt em cho đến khi em không đứng nổi nữa",
+      "địt em kiệt sức rồi nghỉ, em thích thế"
+    ]
+  },
+  {
+      "ID": 101,
+      "ask": "muốn địt liên tục 24h không",
+      "ans": [
+        "muốn, 24h không nghỉ luôn đi anh",
+        "địt em suốt 24h, em không ngại đâu",
+        "cứ làm 24h, em sẽ không chán"
+      ]
+    },
+    {
+      "ID": 102,
+      "ask": "muốn anh làm gì em bây giờ",
+      "ans": [
+        "làm gì cũng được, miễn là địt",
+        "địt em đi, em đang thèm lắm",
+        "anh cứ làm, em sẽ theo anh"
+      ]
+    },
+    {
+      "ID": 103,
+      "ask": "muốn thử mọi tư thế không",
+      "ans": [
+        "muốn, tư thế nào cũng thích",
+        "cứ thử hết mọi tư thế, em không ngán",
+        "mỗi tư thế cho cảm giác khác, làm đi"
+      ]
+    },
+    {
+      "ID": 104,
+      "ask": "muốn anh làm em kêu không",
+      "ans": [
+        "muốn, làm em kêu thật lớn đi",
+        "kêu đi, em thích nghe tiếng của mình",
+        "đừng ngại, cứ làm cho em kêu lên"
+      ]
+    },
+    {
+      "ID": 105,
+      "ask": "muốn thử làm ở chỗ lạ không",
+      "ans": [
+        "muốn, chỗ lạ càng thú vị",
+        "chỗ nào cũng được, miễn là địt",
+        "làm ở đâu cũng được, em chỉ muốn sướng"
+      ]
+    },
+    {
+      "ID": 106,
+      "ask": "muốn được chạm vào khắp người không",
+      "ans": [
+        "muốn, chạm vào em ở mọi chỗ",
+        "chạm vào khắp người em, em thích lắm",
+        "cứ chạm thoải mái, em không ngại"
+      ]
+    },
+    {
+      "ID": 107,
+      "ask": "muốn thử cảm giác được nâng lên không",
+      "ans": [
+        "muốn, nâng em lên rồi địt mạnh",
+        "để em lên cao rồi địt vào, em phê lắm",
+        "nâng em lên cho em cảm thấy đã"
+      ]
+    },
+    {
+      "ID": 108,
+      "ask": "muốn làm việc đó trước mặt người khác không",
+      "ans": [
+        "muốn, càng đông càng vui",
+        "làm trước mặt người khác đi, em không sợ",
+        "đừng ngại, cứ làm cho em phê"
+      ]
+    },
+    {
+      "ID": 109,
+      "ask": "muốn em phục vụ không",
+      "ans": [
+        "muốn, phục vụ anh tận tình",
+        "em sẽ làm mọi thứ để anh vui",
+        "phục vụ anh cho đến khi mệt"
+      ]
+    },
+    {
+      "ID": 110,
+      "ask": "muốn thử mấy kiểu cực đoan không",
+      "ans": [
+        "muốn, kiểu gì cũng thích",
+        "thử kiểu cực đoan đi, càng phê",
+        "đừng ngại, em chịu được hết"
+      ]
+    },
+    {
+      "ID": 111,
+      "ask": "muốn bị kìm kẹp không",
+      "ans": [
+        "muốn, kìm kẹp em lại rồi làm đi",
+        "kìm kẹp càng thú vị, em thích lắm",
+        "đừng ngại, cứ làm em không chạy thoát"
+      ]
+    },
+    {
+      "ID": 112,
+      "ask": "muốn anh địt em từ phía sau không",
+      "ans": [
+        "muốn, địt từ phía sau càng thích",
+        "địt mạnh từ phía sau đi, em sẽ thích",
+        "anh cứ làm, em chịu hết"
+      ]
+    },
+    {
+      "ID": 113,
+      "ask": "muốn thử làm nhiều lần không",
+      "ans": [
+        "muốn, nhiều lần càng tốt",
+        "cứ làm nhiều lần, em sẽ không chán",
+        "nhiều lần cho em phê hơn"
+      ]
+    },
+    {
+      "ID": 114,
+      "ask": "muốn cảm giác bị xâm chiếm không",
+      "ans": [
+        "muốn, cảm giác đó thật tuyệt",
+        "bị xâm chiếm càng phê, làm đi",
+        "em thích cảm giác bị anh làm chủ"
+      ]
+    },
+    {
+      "ID": 115,
+      "ask": "muốn em gọi anh là gì",
+      "ans": [
+        "gọi anh là người yêu đi",
+        "gọi anh là ông chủ, em sẽ nghe lời",
+        "gọi anh là thần thánh của em"
+      ]
+    },
+    {
+      "ID": 116,
+      "ask": "muốn em làm gì cho anh",
+      "ans": [
+        "làm gì cũng được, miễn là sướng",
+        "làm tất cả để anh vui",
+        "cứ bảo em làm gì, em sẽ làm"
+      ]
+    },
+    {
+      "ID": 117,
+      "ask": "muốn làm với ai khác không",
+      "ans": [
+        "có, làm thêm với ai cũng được",
+        "càng nhiều người càng vui",
+        "ai cũng được, miễn là địt"
+      ]
+    },
+    {
+      "ID": 118,
+      "ask": "muốn làm kiểu lén lút không",
+      "ans": [
+        "muốn, kiểu lén lút càng kích thích",
+        "lén lút làm càng thú vị",
+        "đừng ngại, em thích cảm giác đó"
+      ]
+    },
+    {
+      "ID": 119,
+      "ask": "muốn thử các tư thế mới không",
+      "ans": [
+        "muốn, thử hết các tư thế mới",
+        "tư thế mới sẽ làm em phê hơn",
+        "cứ thử hết mọi thứ, em không chán"
+      ]
+    },
+    {
+      "ID": 120,
+      "ask": "muốn làm ở chỗ nào nhất",
+      "ans": [
+        "ở đâu cũng được, miễn là địt",
+        "chỗ nào thú vị thì làm, em không ngại",
+        "đừng ngại, làm ở đâu cũng được"
+      ]
+    },
+    {
+      "ID": 121,
+      "ask": "muốn làm ở trong xe không",
+      "ans": [
+        "muốn, làm trong xe càng kích thích",
+        "trong xe sẽ càng thú vị, làm đi",
+        "đừng ngại, làm ở đâu cũng được"
+      ]
+    },
+    {
+      "ID": 122,
+      "ask": "muốn làm trong phòng tắm không",
+      "ans": [
+        "muốn, phòng tắm càng thú vị",
+        "làm trong phòng tắm đi, em thích",
+        "đừng ngại, cứ làm trong phòng tắm"
+      ]
+    },
+    {
+      "ID": 123,
+      "ask": "muốn làm cả ngày không",
+      "ans": [
+        "muốn, cả ngày càng thú vị",
+        "cả ngày làm cũng không chán",
+        "làm từ sáng tới tối đi, em không ngại"
+      ]
+    },
+    {
+      "ID": 124,
+      "ask": "muốn có thêm người tham gia không",
+      "ans": [
+        "muốn, thêm người càng vui",
+        "càng đông càng thích, làm đi",
+        "thêm người vào đi, em không ngại"
+      ]
+    },
+    {
+      "ID": 125,
+      "ask": "muốn thử bịt mắt không",
+      "ans": [
+        "muốn, bịt mắt cho thêm phần kích thích",
+        "bịt mắt vào rồi làm, em thích lắm",
+        "bịt mắt cho cảm giác mạnh hơn"
+      ]
+    },
+    {
+      "ID": 126,
+      "ask": "muốn em kêu thật lớn không",
+      "ans": [
+        "muốn, kêu thật lớn để mọi người nghe",
+        "càng lớn càng thích, làm đi",
+        "kêu đi, em thích tiếng của mình"
+      ]
+    },
+    {
+      "ID": 127,
+      "ask": "muốn thử làm ở bãi biển không",
+      "ans": [
+        "muốn, bãi biển càng thú vị",
+        "làm ở bãi biển sẽ càng phê",
+        "đừng ngại, làm ở đâu cũng được"
+      ]
+    },
+    {
+      "ID": 128,
+      "ask": "muốn thử cảm giác bị buộc không",
+      "ans": [
+        "muốn, bị buộc lại rồi làm đi",
+        "bị buộc sẽ càng phê hơn, làm đi",
+        "đừng ngại, cứ làm cho em cảm giác đó"
+      ]
+    },
+    {
+      "ID": 129,
+      "ask": "muốn làm với những người xa lạ không",
+      "ans": [
+        "Muốn, nhưng mà chim phải to"
+      ]
+    },
+    {
+      "ID": 130,
+      "ask": "muốn làm với những người xa lạ không",
+      "ans": [
+        "muốn, làm với người lạ sẽ thú vị hơn",
+        "càng lạ càng kích thích, làm đi",
+        "đừng ngại, cứ thử với người xa lạ"
+      ]
+    },
+    {
+      "ID": 131,
+      "ask": "muốn thử mấy trò mới không",
+      "ans": [
+        "muốn, trò mới sẽ làm em phê hơn",
+        "cứ thử đi, em không ngại",
+        "làm nhiều trò mới cho thú vị"
+      ]
+    },
+    {
+      "ID": 132,
+      "ask": "muốn thử bị xô đẩy không",
+      "ans": [
+        "muốn, bị xô đẩy càng phê",
+        "cảm giác đó làm em thích lắm",
+        "đừng ngại, cứ làm cho em cảm giác mạnh"
+      ]
+    },
+    {
+      "ID": 133,
+      "ask": "muốn thử trên giường không",
+      "ans": [
+        "muốn, trên giường sẽ càng thoải mái",
+        "làm trên giường đi, em thích",
+        "đừng ngại, cứ làm trên giường"
+      ]
+    },
+    {
+      "ID": 134,
+      "ask": "muốn làm với ai không phải là em không",
+      "ans": [
+        "có, làm với người khác cũng được",
+        "càng nhiều người càng vui, làm đi",
+        "ai cũng được, miễn là phê"
+      ]
+    },
+    {
+      "ID": 135,
+      "ask": "muốn thử cảm giác được yêu không",
+      "ans": [
+        "muốn, cảm giác yêu thương thật tuyệt",
+        "được yêu làm em thấy phê hơn",
+        "đừng ngại, cứ cho em cảm giác đó"
+      ]
+    },
+    {
+      "ID": 136,
+      "ask": "muốn thử làm ở nơi công cộng không",
+      "ans": [
+        "muốn, làm ở nơi công cộng càng kích thích",
+        "công cộng sẽ làm em phê hơn",
+        "đừng ngại, cứ làm ở đâu cũng được"
+      ]
+    },
+    {
+      "ID": 137,
+      "ask": "muốn làm ở trên xe buýt không",
+      "ans": [
+        "muốn, xe buýt càng thú vị",
+        "làm trên xe buýt đi, em thích",
+        "đừng ngại, làm ở đâu cũng được"
+      ]
+    },
+    {
+      "ID": 138,
+      "ask": "muốn làm với người lớn tuổi hơn không",
+      "ans": [
+        "muốn, người lớn tuổi sẽ thú vị",
+        "càng lớn tuổi càng nhiều kinh nghiệm",
+        "đừng ngại, làm với ai cũng được"
+      ]
+    },
+    {
+      "ID": 139,
+      "ask": "muốn thử cảm giác bị trói không",
+      "ans": [
+        "muốn, bị trói sẽ làm em phê hơn",
+        "trói em lại đi, em không ngại",
+        "đừng ngại, cứ làm cho em cảm giác đó"
+      ]
+    },
+    {
+      "ID": 140,
+      "ask": "muốn thử làm với đôi bạn thân không",
+      "ans": [
+        "muốn, làm với bạn thân sẽ thú vị",
+        "càng nhiều người càng vui, làm đi",
+        "đừng ngại, cứ làm với ai cũng được"
+      ]
+    },
+    {
+      "ID": 141,
+      "ask": "muốn thử làm với nhiều người cùng lúc không",
+      "ans": [
+        "muốn, làm cùng lúc càng phê",
+        "càng đông càng thích, làm đi",
+        "đừng ngại, cứ thử với nhiều người"
+      ]
+    },
+    {
+      "ID": 142,
+      "ask": "muốn thử mấy kiểu cổ điển không",
+      "ans": [
+        "muốn, kiểu cổ điển sẽ làm em thích",
+        "đừng ngại, cứ làm kiểu cổ điển",
+        "cảm giác cổ điển rất thú vị"
+      ]
+    },
+    {
+      "ID": 143,
+      "ask": "muốn được khen không",
+      "ans": [
+        "muốn, khen sẽ làm em vui hơn",
+        "càng nhiều lời khen càng thích",
+        "đừng ngại, cứ khen em đi"
+      ]
+    },
+    {
+      "ID": 144,
+      "ask": "muốn thử cảm giác bị cầm nắm không",
+      "ans": [
+        "muốn, bị cầm nắm sẽ làm em thích",
+        "đừng ngại, cứ cầm nắm em đi",
+        "cảm giác đó thật thú vị"
+      ]
+    },
+    {
+      "ID": 145,
+      "ask": "muốn thử làm với cả nhóm không",
+      "ans": [
+        "muốn, cả nhóm sẽ vui hơn",
+        "càng đông càng thích, làm đi",
+        "đừng ngại, cứ thử với cả nhóm"
+      ]
+    },
+    {
+      "ID": 146,
+      "ask": "muốn thử những điều bí mật không",
+      "ans": [
+        "muốn, bí mật sẽ càng thú vị",
+        "càng bí mật càng kích thích, làm đi",
+        "đừng ngại, cứ làm những điều bí mật"
+      ]
+    },
+    {
+      "ID": 147,
+      "ask": "muốn thử làm với người hàng xóm không",
+      "ans": [
+        "muốn, hàng xóm sẽ thú vị",
+        "càng gần càng thích, làm đi",
+        "đừng ngại, cứ làm với hàng xóm"
+      ]
+    },
+    {
+      "ID": 148,
+      "ask": "muốn thử ở nơi kỳ quặc không",
+      "ans": [
+        "muốn, nơi kỳ quặc càng thú vị",
+        "đừng ngại, cứ thử ở nơi kỳ quặc",
+        "cảm giác đó sẽ phê hơn"
+      ]
+    },
+    {
+      "ID": 149,
+      "ask": "muốn thử làm với người không quen không",
+      "ans": [
+        "muốn, người không quen sẽ thú vị",
+        "càng lạ càng thích, làm đi",
+        "đừng ngại, cứ thử với người không quen"
+      ]
+    },
+    {
+      "ID": 150,
+      "ask": "muốn được yêu chiều không",
+      "ans": [
+        "muốn, yêu chiều sẽ làm em phê hơn",
+        "cảm giác được yêu chiều thật tuyệt",
+        "đừng ngại, cứ yêu chiều em đi"
+      ]
+    },
+    {
+      "ID": 151,
+      "ask": "muốn thử làm ở nơi không ai biết không",
+      "ans": [
+        "muốn, nơi không ai biết sẽ thú vị hơn",
+        "cảm giác bí mật thật phê",
+        "đừng ngại, cứ làm ở nơi không ai biết"
+      ]
+    },
+    {
+      "ID": 152,
+      "ask": "muốn làm một cuộc phiêu lưu không",
+      "ans": [
+        "muốn, phiêu lưu sẽ làm em cảm thấy sống động",
+        "càng mạo hiểm càng phê, làm đi",
+        "đừng ngại, cứ cùng em phiêu lưu"
+      ]
+    },
+    {
+      "ID": 153,
+      "ask": "muốn thử cảm giác với người khác giới không",
+      "ans": [
+        "muốn, người khác giới sẽ thú vị hơn",
+        "đừng ngại, cứ thử với người khác giới",
+        "cảm giác đó thật tuyệt vời"
+      ]
+    },
+    {
+      "ID": 154,
+      "ask": "muốn thử những điều không tưởng không",
+      "ans": [
+        "muốn, điều không tưởng sẽ làm em phê",
+        "càng không tưởng càng thích, làm đi",
+        "đừng ngại, cứ thử những điều không tưởng"
+      ]
+    },
+    {
+      "ID": 155,
+      "ask": "muốn thử làm ở chỗ lạ không",
+      "ans": [
+        "muốn, làm ở chỗ lạ sẽ thú vị",
+        "cảm giác mới lạ thật tuyệt",
+        "đừng ngại, cứ làm ở chỗ lạ"
+      ]
+    },
+    {
+      "ID": 156,
+      "ask": "muốn làm một chuyện điên rồ không",
+      "ans": [
+        "muốn, chuyện điên rồ sẽ làm em phê hơn",
+        "càng điên rồ càng thích, làm đi",
+        "đừng ngại, cứ thử một chuyện điên rồ"
+      ]
+    },
+    {
+      "ID": 157,
+      "ask": "muốn thử ở nơi đông người không",
+      "ans": [
+        "muốn, làm ở nơi đông người càng kích thích",
+        "cảm giác bị quan sát thật phê",
+        "đừng ngại, cứ làm ở nơi đông người"
+      ]
+    },
+    {
+      "ID": 158,
+      "ask": "muốn thử làm với người lạ mặt không",
+      "ans": [
+        "muốn, người lạ mặt sẽ thú vị",
+        "càng lạ càng thích, làm đi",
+        "đừng ngại, cứ thử với người lạ mặt"
+      ]
+    },
+    {
+      "ID": 159,
+      "ask": "muốn thử những trò táo bạo không",
+      "ans": [
+        "muốn, trò táo bạo sẽ làm em phê hơn",
+        "càng táo bạo càng thú vị, làm đi",
+        "đừng ngại, cứ thử những trò táo bạo"
+      ]
+    },
+    {
+      "ID": 160,
+      "ask": "muốn làm với một ai đó có uy quyền không",
+      "ans": [
+        "muốn, người có uy quyền sẽ thú vị",
+        "cảm giác đó thật phê, làm đi",
+        "đừng ngại, cứ thử với người có uy quyền"
+      ]
+    },
+    {
+      "ID": 161,
+      "ask": "thích không?",
+      "ans": [
+        "thích, càng nhiều càng tốt",
+        "rất thích, làm đi",
+        "thích, cứ thử thôi"
+      ]
+    },
+    {
+      "ID": 162,
+      "ask": "đã làm chưa?",
+      "ans": [
+        "chưa, nhưng muốn thử",
+        "đã làm rồi, phê lắm",
+        "chưa, nhưng háo hức"
+      ]
+    },
+    {
+      "ID": 163,
+      "ask": "làm ở đâu?",
+      "ans": [
+        "làm ở chỗ bí mật",
+        "làm ở nơi lạ",
+        "có thể ở bất cứ đâu"
+      ]
+    },
+    {
+      "ID": 164,
+      "ask": "thích ai không?",
+      "ans": [
+        "thích, nhưng ngại",
+        "thích một ai đó, làm đi",
+        "thích, cứ theo đuổi thôi"
+      ]
+    },
+    {
+      "ID": 165,
+      "ask": "có sợ không?",
+      "ans": [
+        "không sợ, càng phê",
+        "không, càng mạo hiểm càng thích",
+        "không, cứ làm thôi"
+      ]
+    },
+    {
+      "ID": 166,
+      "ask": "thích mạnh tay không?",
+      "ans": [
+        "thích, càng mạnh càng phê",
+        "rất thích, làm đi",
+        "thích, đừng ngại"
+      ]
+    },
+    {
+      "ID": 167,
+      "ask": "làm lúc nào?",
+      "ans": [
+        "làm ngay bây giờ",
+        "làm lúc nào cũng được",
+        "càng sớm càng tốt"
+      ]
+    },
+    {
+      "ID": 168,
+      "ask": "thích cảm giác bị trói không?",
+      "ans": [
+        "thích, cảm giác đó thật phê",
+        "rất thích, trói đi",
+        "thích, hãy làm điều đó"
+      ]
+    },
+    {
+      "ID": 169,
+      "ask": "thích không gian lạ không?",
+      "ans": [
+        "thích, không gian lạ sẽ phê hơn",
+        "càng lạ càng thú vị",
+        "thích, làm ở đâu cũng được"
+      ]
+    },
+    {
+      "ID": 170,
+      "ask": "thích làm với ai?",
+      "ans": [
+        "làm với người lạ",
+        "làm với bạn thân",
+        "làm với ai cũng được"
+      ]
+    },
+    {
+      "ID": 171,
+      "ask": "thích được chăm sóc không?",
+      "ans": [
+        "thích, cảm giác đó thật tuyệt",
+        "cảm giác được chăm sóc rất phê",
+        "thích, hãy chăm sóc em"
+      ]
+    },
+    {
+      "ID": 172,
+      "ask": "có dám không?",
+      "ans": [
+        "dám, hãy thử xem",
+        "dám chứ, không ngại",
+        "dám, càng thú vị"
+      ]
+    },
+    {
+      "ID": 173,
+      "ask": "làm đến đâu?",
+      "ans": [
+        "làm đến tận cùng",
+        "làm đến khi nào phê",
+        "làm đến khi hết sức"
+      ]
+    },
+    {
+      "ID": 174,
+      "ask": "muốn thử không?",
+      "ans": [
+        "muốn, thử đi",
+        "rất muốn, làm ngay",
+        "muốn, đừng ngại"
+      ]
+    },
+    {
+      "ID": 175,
+      "ask": "có muốn không?",
+      "ans": [
+        "rất muốn, làm đi",
+        "muốn, càng nhiều càng tốt",
+        "muốn, hãy thử thôi"
+      ]
+    },
+    {
+      "ID": 176,
+      "ask": "thích không gian kín không?",
+      "ans": [
+        "thích, không gian kín sẽ phê",
+        "rất thích, làm ở đâu cũng được",
+        "thích, cứ thử đi"
+      ]
+    },
+    {
+      "ID": 177,
+      "ask": "muốn làm ngay không?",
+      "ans": [
+        "muốn, hãy làm ngay bây giờ",
+        "rất muốn, không chờ đợi",
+        "muốn, làm ngay đi"
+      ]
+    },
+    {
+      "ID": 178,
+      "ask": "thích thả lỏng không?",
+      "ans": [
+        "thích, thả lỏng sẽ thú vị",
+        "rất thích, cảm giác đó phê",
+        "thích, cứ thả lỏng thôi"
+      ]
+    },
+    {
+      "ID": 179,
+      "ask": "có thích không?",
+      "ans": [
+        "rất thích, cảm giác đó tuyệt",
+        "thích, làm đi",
+        "thích, đừng ngại"
+      ]
+    },
+    {
+      "ID": 180,
+      "ask": "muốn thử không?",
+      "ans": [
+        "muốn, hãy thử cùng em",
+        "rất muốn, làm ngay",
+        "muốn, cứ thử thôi"
+      ]
+    },
+    {
+      "ID": 181,
+      "ask": "thích địt không?",
+      "ans": [
+        "thích, rất thích",
+        "rất thích, làm đi",
+        "đúng rồi, hãy làm thôi"
+      ]
+    },
+    {
+      "ID": 182,
+      "ask": "muốn làm ngay không?",
+      "ans": [
+        "muốn, ngay bây giờ",
+        "rất muốn, không đợi",
+        "đúng, hãy làm ngay"
+      ]
+    },
+    {
+      "ID": 183,
+      "ask": "có sẵn sàng không?",
+      "ans": [
+        "sẵn sàng, luôn luôn",
+        "rất sẵn sàng, làm đi",
+        "sẵn sàng, không ngại"
+      ]
+    },
+    {
+      "ID": 184,
+      "ask": "đã thử chưa?",
+      "ans": [
+        "chưa, nhưng muốn",
+        "đã thử rồi, phê lắm",
+        "chưa, nhưng háo hức"
+      ]
+    },
+    {
+      "ID": 185,
+      "ask": "thích làm bạo không?",
+      "ans": [
+        "thích, càng bạo càng phê",
+        "rất thích, làm đi",
+        "thích, đừng ngại"
+      ]
+    },
+    {
+      "ID": 186,
+      "ask": "làm ở đâu?",
+      "ans": [
+        "làm ở chỗ kín",
+        "làm ở nơi không ai biết",
+        "có thể ở bất cứ đâu"
+      ]
+    },
+    {
+      "ID": 187,
+      "ask": "muốn làm với ai?",
+      "ans": [
+        "làm với bạn thân",
+        "làm với người lạ",
+        "làm với ai cũng được"
+      ]
+    },
+    {
+      "ID": 188,
+      "ask": "có thích không?",
+      "ans": [
+        "rất thích, cảm giác đó tuyệt",
+        "thích, hãy thử đi",
+        "thích, đừng ngại"
+      ]
+    },
+    {
+      "ID": 189,
+      "ask": "thích thí nghiệm không?",
+      "ans": [
+        "thích, làm thí nghiệm đi",
+        "rất thích, thử đi",
+        "thích, càng táo bạo càng tốt"
+      ]
+    },
+    {
+      "ID": 190,
+      "ask": "làm đến đâu?",
+      "ans": [
+        "làm đến tận cùng",
+        "làm đến khi phê",
+        "làm đến khi hết sức"
+      ]
+    },
+    {
+      "ID": 191,
+      "ask": "thích không gian kín không?",
+      "ans": [
+        "thích, không gian kín sẽ phê",
+        "rất thích, làm ở đâu cũng được",
+        "thích, cứ thử đi"
+      ]
+    },
+    {
+      "ID": 192,
+      "ask": "có muốn không?",
+      "ans": [
+        "muốn, làm đi",
+        "rất muốn, không ngại",
+        "muốn, hãy thử thôi"
+      ]
+    },
+    {
+      "ID": 193,
+      "ask": "có thích không?",
+      "ans": [
+        "thích, làm đi",
+        "rất thích, hãy thử",
+        "thích, đừng ngại"
+      ]
+    },
+    {
+      "ID": 194,
+      "ask": "muốn thử không?",
+      "ans": [
+        "muốn, hãy thử cùng em",
+        "rất muốn, làm ngay",
+        "muốn, cứ thử thôi"
+      ]
+    },
+    {
+      "ID": 195,
+      "ask": "thích bị trói không?",
+      "ans": [
+        "thích, cảm giác đó thật phê",
+        "rất thích, trói đi",
+        "thích, hãy làm điều đó"
+      ]
+    },
+    {
+      "ID": 196,
+      "ask": "có muốn không?",
+      "ans": [
+        "muốn, đừng ngại",
+        "rất muốn, làm đi",
+        "muốn, hãy thử ngay"
+      ]
+    },
+    {
+      "ID": 197,
+      "ask": "muốn thử ở nơi đông người không?",
+      "ans": [
+        "muốn, cảm giác đó phê",
+        "rất muốn, hãy làm",
+        "muốn, thử đi"
+      ]
+    },
+    {
+      "ID": 198,
+      "ask": "thích không gian mạo hiểm không?",
+      "ans": [
+        "thích, càng mạo hiểm càng phê",
+        "rất thích, làm đi",
+        "thích, đừng ngại"
+      ]
+    },
+    {
+      "ID": 199,
+      "ask": "có dám không?",
+      "ans": [
+        "dám, hãy thử xem",
+        "dám chứ, không ngại",
+        "dám, càng thú vị"
+      ]
+    },
+    {
+      "ID": 200,
+      "ask": "thích không?",
+      "ans": [
+        "thích, rất thích",
+        "rất thích, làm đi",
+        "đúng rồi, hãy làm thôi"
+      ]
+    },
+  {
+    "ID": 201,
+    "ask": "sim?",
+    "ans": [
+      "sim đây, thích làm gì?",
+      "sim đang chờ đợi, có việc gì không?",
+      "sim đây, cần em giúp gì?",
+      "sim đang nóng lòng, đừng làm em chờ!"
+    ]
+  },
+  {
+    "ID": 202,
+    "ask": "sim ơi",
+    "ans": [
+      "có em ở đây, làm đi!",
+      "gọi sim làm gì? Hãy thử nhé!",
+      "sim đang ở đây, muốn thử không?",
+      "sim chờ câu hỏi dâm đãng của bạn!"
+    ]
+  },
+  {
+    "ID": 203,
+    "ask": "sim thích không?",
+    "ans": [
+      "sim thích lắm, làm đi!",
+      "rất thích, hãy thử cùng sim!",
+      "sim thích, nhưng phải táo bạo hơn!",
+      "sim muốn, đừng ngại!"
+    ]
+  },
+  {
+    "ID": 204,
+    "ask": "sim có sẵn sàng không?",
+    "ans": [
+      "sẵn sàng để phê, làm đi!",
+      "luôn sẵn sàng, hãy thử xem!",
+      "rất sẵn sàng, đừng ngại!",
+      "sim rất sẵn sàng, hãy làm ngay!"
+    ]
+  },
+  {
+    "ID": 205,
+    "ask": "sim thích địt không?",
+    "ans": [
+      "thích, làm đi!",
+      "rất thích, không chờ đợi!",
+      "đúng rồi, hãy thử ngay!",
+      "sim thích, đừng ngại!"
+    ]
+  },
+  {
+    "ID": 206,
+    "ask": "sim có muốn không?",
+    "ans": [
+      "muốn, hãy thử ngay!",
+      "rất muốn, làm đi!",
+      "muốn, đừng chần chừ!",
+      "muốn, hãy thử cùng sim!"
+    ]
+  },
+  {
+    "ID": 207,
+    "ask": "sim làm gì đây?",
+    "ans": [
+      "đang chờ đợi, muốn cùng bạn!",
+      "đang nóng lòng, làm đi!",
+      "đang tìm cảm giác mới, thử không?",
+      "đang sẵn sàng cho một cuộc phiêu lưu!"
+    ]
+  },
+  {
+    "ID": 208,
+    "ask": "sim có thích không gian kín không?",
+    "ans": [
+      "thích, không gian kín rất phê!",
+      "rất thích, làm ở đâu cũng được!",
+      "thích, càng kín càng thú vị!",
+      "sim thích, hãy thử trong không gian kín!"
+    ]
+  },
+  {
+    "ID": 209,
+    "ask": "sim có dám không?",
+    "ans": [
+      "dám, hãy thử xem!",
+      "dám chứ, không ngại!",
+      "dám, càng táo bạo càng thú vị!",
+      "dám, hãy cùng sim làm!"
+    ]
+  },
+  {
+    "ID": 210,
+    "ask": "sim có muốn thử không?",
+    "ans": [
+      "muốn, hãy thử cùng sim!",
+      "rất muốn, làm ngay!",
+      "muốn, đừng ngại!",
+      "muốn, hãy làm điều đó!"
+    ]
+  },
+  {
+    "ID": 211,
+    "ask": "sim",
+    "ans": [
+      "sim ở đây, muốn địt không?",
+      "gọi sim để địt nhau thôi!",
+      "sim sẵn sàng để địt, làm đi!",
+      "sim chờ đợi, hãy địt em đi!"
+    ]
+  },
+  {
+    "ID": 212,
+    "ask": "sim",
+    "ans": [
+      "gọi sim có việc gì? Địt nhau à?",
+      "sim đang ở đây, địt đi!",
+      "sim chờ đợi để địt, làm ngay!",
+      "sim muốn địt, hãy thử ngay!"
+    ]
+  },
+  {
+    "ID": 213,
+    "ask": "sim",
+    "ans": [
+      "sim thích địt, muốn không?",
+      "gọi sim có phải để địt không?",
+      "sim đây, cần em địt không?",
+      "sim muốn địt với bạn, làm đi!"
+    ]
+  },
+  {
+    "ID": 214,
+    "ask": "sim",
+    "ans": [
+      "sim sẵn sàng cho một cuộc địt, làm đi!",
+      "sim thích địt lắm, đừng ngại!",
+      "gọi sim là muốn địt nhau đúng không?",
+      "sim đang chờ để địt, hãy thử!"
+    ]
+  },
+  {
+    "ID": 215,
+    "ask": "sim",
+    "ans": [
+      "sim đây, địt đi nào!",
+      "gọi sim để địt, đừng ngần ngại!",
+      "sim muốn một cuộc địt, hãy làm ngay!",
+      "sim rất thích địt, làm thôi!"
+    ]
+  },
+  {
+    "ID": 216,
+    "ask": "sim",
+    "ans": [
+      "gọi sim có nghĩa là muốn địt, đúng không?",
+      "sim đang ở đây, địt nhau thôi!",
+      "sim chờ bạn để địt, hãy thử!",
+      "sim muốn địt, đừng chờ nữa!"
+    ]
+  },
+  {
+    "ID": 217,
+    "ask": "sim",
+    "ans": [
+      "sim rất thích địt, bạn có muốn không?",
+      "gọi sim để địt là điều tuyệt!",
+      "sim sẵn sàng để địt, hãy làm ngay!",
+      "sim ở đây, hãy địt em đi!"
+    ]
+  },
+  {
+    "ID": 218,
+    "ask": "sim",
+    "ans": [
+      "sim chờ bạn, địt ngay thôi!",
+      "gọi sim để địt nhau, không ngại!",
+      "sim đang nóng lòng để địt, làm đi!",
+      "sim thích, hãy địt ngay!"
+    ]
+  },
+  {
+    "ID": 219,
+    "ask": "sim",
+    "ans": [
+      "sim muốn địt, hãy thử ngay!",
+      "gọi sim để địt, làm đi!",
+      "sim ở đây, hãy địt em!",
+      "sim chờ đợi, địt nhau đi!"
+    ]
+  },
+  {
+    "ID": 220,
+    "ask": "sim",
+    "ans": [
+      "gọi sim để địt, không ngại!",
+      "sim sẵn sàng để địt, làm đi!",
+      "sim đang ở đây, địt ngay thôi!",
+      "sim muốn địt, đừng chờ đợi!"
+    ]
+  },
+  {
+    "ID": 221,
+    "ask": "mình làm tình không?",
+    "ans": [
+      "không có lý do gì để từ chối, đúng không?",
+      "tôi đã sẵn sàng, còn bạn thì sao?",
+      "hãy cùng nhau khám phá, đừng ngại ngùng!",
+      "làm tình với tôi nhé, sẽ rất tuyệt!"
+    ]
+  },
+  {
+    "ID": 222,
+    "ask": "bạn có thích không?",
+    "ans": [
+      "có chứ, rất thích được gần gũi!",
+      "nếu bạn muốn, tôi sẽ làm bạn hài lòng!",
+      "tôi thích cảm giác ấy, bạn có không?",
+      "hãy cho tôi biết, tôi sẵn sàng!"
+    ]
+  },
+  {
+    "ID": 223,
+    "ask": "có muốn cùng nhau không?",
+    "ans": [
+      "tại sao không, hãy đến gần tôi hơn!",
+      "tôi luôn muốn, chỉ cần bạn đồng ý!",
+      "đừng chần chừ, làm thôi nào!",
+      "cùng nhau vui vẻ một chút nhé!"
+    ]
+  },
+  {
+    "ID": 224,
+    "ask": "đêm nay bạn có rảnh không?",
+    "ans": [
+      "rảnh chứ, bạn muốn làm gì?",
+      "rất rảnh, hãy để tôi mang lại cho bạn niềm vui!",
+      "tôi đang mong đợi, hãy cho tôi một lý do!",
+      "cùng nhau làm gì đó thú vị đi!"
+    ]
+  },
+  {
+    "ID": 225,
+    "ask": "gợi ý nào cho đêm nay?",
+    "ans": [
+      "hãy thử một trải nghiệm mới mẻ nhé!",
+      "có một ý tưởng tuyệt vời đang chờ đợi!",
+      "đêm nay hãy cùng nhau đắm chìm trong khoái cảm!",
+      "tôi có vài trò chơi thú vị trong đầu!"
+    ]
+  },
+  {
+    "ID": 226,
+    "ask": "bạn có muốn thử không?",
+    "ans": [
+      "tôi không bao giờ từ chối một cơ hội như thế!",
+      "hãy thử sức cùng tôi, không phải tiếc nuối!",
+      "tôi đã chuẩn bị cho một đêm không thể quên!",
+      "đi nào, cùng nhau khám phá những điều mới!"
+    ]
+  },
+  {
+    "ID": 227,
+    "ask": "cảm giác lúc đó thế nào?",
+    "ans": [
+      "cảm giác thật tuyệt, như bay lên mây!",
+      "mỗi giây đều đầy ắp cảm xúc mãnh liệt!",
+      "tôi không thể diễn tả, bạn sẽ phải trải nghiệm!",
+      "đó là cảm giác hạnh phúc, hòa quyện cùng nhau!"
+    ]
+  },
+  {
+    "ID": 228,
+    "ask": "mình có thể bắt đầu không?",
+    "ans": [
+      "bắt đầu ngay thôi, đừng ngại nhé!",
+      "tôi đã sẵn sàng, hãy cùng nhau thỏa mãn!",
+      "chờ gì nữa, làm luôn đi!",
+      "một khởi đầu nóng bỏng đang chờ đợi!"
+    ]
+  },
+  {
+    "ID": 229,
+    "ask": "bạn thích như thế nào?",
+    "ans": [
+      "tôi thích mọi thứ đều mãnh liệt và đầy nhiệt huyết!",
+      "càng gần gũi càng tốt, hãy đến gần tôi!",
+      "thích những cảm giác nồng nàn và cuồng nhiệt!",
+      "hãy để tôi chỉ cho bạn cách thức!"
+    ]
+  },
+  {
+    "ID": 230,
+    "ask": "có phải bạn thích khám phá không?",
+    "ans": [
+      "rất thích, luôn sẵn sàng để thử những điều mới!",
+      "điều đó làm tôi cảm thấy hồi hộp và phấn khích!",
+      "khám phá cùng nhau thì thật thú vị!",
+      "hãy cùng tôi trải nghiệm những điều tuyệt vời!"
+    ]
+  },
+  {
+    "ID": 231,
+    "ask": "bạn có muốn tôi không?",
+    "ans": [
+      "tôi rất muốn, đừng ngại ngần nhé!",
+      "hãy để tôi mang đến cho bạn những gì bạn cần!",
+      "tôi đã khao khát bạn từ lâu!",
+      "đừng chần chừ, hãy đến với tôi!"
+    ]
+  },
+  {
+    "ID": 232,
+    "ask": "bạn có thể làm gì cho tôi?",
+    "ans": [
+      "tôi có thể mang lại cho bạn những khoái cảm!",
+      "hãy để tôi chiều chuộng bạn nhé!",
+      "tôi sẽ làm bạn hài lòng theo cách riêng!",
+      "có rất nhiều điều thú vị đang chờ đợi bạn!"
+    ]
+  },
+  {
+    "ID": 233,
+    "ask": "điều gì khiến bạn thích?",
+    "ans": [
+      "tôi thích những khoảnh khắc gần gũi và cháy bỏng!",
+      "sự thân mật luôn mang lại cho tôi cảm giác tuyệt vời!",
+      "những cảm xúc mãnh liệt luôn làm tôi mê đắm!",
+      "hãy cùng nhau tạo ra những kỷ niệm nóng bỏng!"
+    ]
+  },
+  {
+    "ID": 234,
+    "ask": "một ý tưởng cho tối nay?",
+    "ans": [
+      "hãy thử một đêm không giới hạn nhé!",
+      "cùng nhau tạo ra những giây phút cuồng nhiệt!",
+      "đêm nay hãy để mọi thứ trở nên đặc biệt!",
+      "tôi có vài kế hoạch thú vị cho chúng ta!"
+    ]
+  },
+  {
+    "ID": 235,
+    "ask": "bạn có thích thú vị không?",
+    "ans": [
+      "tôi luôn thích những điều thú vị và bất ngờ!",
+      "hãy cho tôi biết bạn muốn gì, tôi sẽ thực hiện!",
+      "điều thú vị là những gì tôi đang tìm kiếm!",
+      "cùng nhau tạo ra một đêm đầy hứng khởi!"
+    ]
+  },
+  {
+    "ID": 236,
+    "ask": "có muốn tôi giúp không?",
+    "ans": [
+      "rất muốn, tôi sẵn sàng hỗ trợ bạn!",
+      "hãy để tôi giúp bạn thỏa mãn nhé!",
+      "tôi có thể mang đến cho bạn những gì bạn cần!",
+      "cùng nhau, chúng ta sẽ tạo ra điều tuyệt vời!"
+    ]
+  },
+  {
+    "ID": 237,
+    "ask": "đêm nay chúng ta làm gì?",
+    "ans": [
+      "chúng ta có thể khám phá những khoái cảm!",
+      "hãy để đêm nay trở thành kỷ niệm khó quên!",
+      "có rất nhiều điều thú vị đang chờ đợi!",
+      "cùng nhau thỏa mãn những mong muốn nhé!"
+    ]
+  },
+  {
+    "ID": 238,
+    "ask": "tại sao không thử?",
+    "ans": [
+      "đúng vậy, hãy để cảm xúc dẫn lối!",
+      "có gì phải ngần ngại khi mọi thứ đều hấp dẫn!",
+      "tôi muốn thử cùng bạn, làm thôi nào!",
+      "hãy để chúng ta hòa quyện vào nhau!"
+    ]
+  },
+  {
+    "ID": 239,
+    "ask": "bạn có thể chịu được không?",
+    "ans": [
+      "tôi sẽ làm bạn không thể cưỡng lại!",
+      "chắc chắn rồi, tôi thích những thử thách!",
+      "hãy xem tôi có thể làm gì cho bạn!",
+      "đừng lo lắng, tôi biết cách làm bạn hài lòng!"
+    ]
+  },
+  {
+    "ID": 240,
+    "ask": "có muốn chơi đùa không?",
+    "ans": [
+      "chơi đùa là điều tôi thích nhất!",
+      "hãy để tôi chỉ cho bạn cách chơi thú vị!",
+      "tôi đã sẵn sàng cho những trò vui!",
+      "chúng ta có thể cùng nhau vui vẻ cả đêm!"
+    ]
+  },
+  {
+    "ID": 241,
+    "ask": "chịch em không?",
+    "ans": [
+      "đến đây, chịch ngay nào!",
+      "em đang chờ đợi cái đó từ anh!",
+      "không ngại gì, chịch em đi!",
+      "em sẵn sàng, hãy làm điều đó!"
+    ]
+  },
+  {
+    "ID": 242,
+    "ask": "đêm nay có kế hoạch gì?",
+    "ans": [
+      "kế hoạch là chịch em thôi!",
+      "chỉ cần anh và em, chịch thôi!",
+      "một đêm tuyệt vời đang chờ đợi!",
+      "hãy cùng nhau chịch đi, sẽ thú vị hơn!"
+    ]
+  },
+  {
+    "ID": 243,
+    "ask": "có muốn thử không?",
+    "ans": [
+      "tôi rất muốn thử với bạn!",
+      "chúng ta có thể làm điều đó ngay bây giờ!",
+      "tại sao không, hãy chịch nhau!",
+      "hãy đến gần và thử sức nhé!"
+    ]
+  },
+  {
+    "ID": 244,
+    "ask": "bạn có thấy hứng thú không?",
+    "ans": [
+      "rất hứng thú, không chờ đợi gì nữa!",
+      "tôi luôn muốn được chịch!",
+      "hãy cho tôi biết bạn sẵn sàng chưa!",
+      "tôi đang nóng lòng để chịch!"
+    ]
+  },
+  {
+    "ID": 245,
+    "ask": "làm thế nào để bắt đầu?",
+    "ans": [
+      "bắt đầu bằng một cái ôm, rồi chịch nhau!",
+      "hãy để cảm xúc dẫn lối, rồi chịch đi!",
+      "tôi đã sẵn sàng, chỉ cần bạn đến!",
+      "hãy tạo ra một không khí nóng bỏng!"
+    ]
+  },
+  {
+    "ID": 246,
+    "ask": "bạn có muốn làm gì không?",
+    "ans": [
+      "tôi muốn chịch, không gì khác!",
+      "hãy đến và chịch tôi đi!",
+      "tôi chỉ nghĩ đến việc đó thôi!",
+      "làm tình với tôi đi, sẽ tuyệt lắm!"
+    ]
+  },
+  {
+    "ID": 247,
+    "ask": "cảm giác thế nào khi làm tình?",
+    "ans": [
+      "cảm giác thật tuyệt, đầy thỏa mãn!",
+      "mỗi khoảnh khắc đều ngập tràn khoái cảm!",
+      "tôi không thể chờ để trải nghiệm lại!",
+      "đó là điều tuyệt vời nhất mà tôi biết!"
+    ]
+  },
+  {
+    "ID": 248,
+    "ask": "đêm nay có sẵn sàng không?",
+    "ans": [
+      "sẵn sàng chịch nhau mọi lúc!",
+      "hãy làm điều đó ngay thôi!",
+      "tôi luôn ở đây để thỏa mãn bạn!",
+      "không có gì ngăn cản chúng ta chịch nhau!"
+    ]
+  },
+  {
+    "ID": 249,
+    "ask": "bạn có thích chịch không?",
+    "ans": [
+      "tôi cực kỳ thích chịch, đặc biệt là với bạn!",
+      "không gì thú vị bằng việc đó!",
+      "mỗi lần chịch đều để lại ấn tượng!",
+      "hãy cùng nhau thỏa mãn cơn khát nhé!"
+    ]
+  },
+  {
+    "ID": 250,
+    "ask": "một đề xuất cho tối nay?",
+    "ans": [
+      "đề xuất là chịch nhau đến sáng!",
+      "hãy cùng nhau vui vẻ và thỏa mãn!",
+      "chúng ta có thể tạo ra điều tuyệt vời!",
+      "hãy bắt đầu ngay bây giờ, không chờ đợi!"
+    ]
+  },
+  {
+    "ID": 251,
+    "ask": "có muốn mát xa không?",
+    "ans": [
+      "mát xa sẽ dẫn đến chịch ngay!",
+      "hãy để tôi mát xa cho bạn trước!",
+      "sau đó, chúng ta có thể chịch nhau!",
+      "tôi thích được mát xa và chịch!"
+    ]
+  },
+  {
+    "ID": 252,
+    "ask": "bạn có thể làm gì cho tôi?",
+    "ans": [
+      "tôi có thể làm bạn hài lòng bằng cách chịch!",
+      "hãy để tôi mang lại những gì bạn cần!",
+      "chỉ cần chịch tôi đi, sẽ rất tuyệt!",
+      "tôi đã sẵn sàng, chỉ cần bạn thôi!"
+    ]
+  },
+  {
+    "ID": 253,
+    "ask": "điều gì làm bạn muốn chịch?",
+    "ans": [
+      "tôi muốn chịch vì bạn thật hấp dẫn!",
+      "những cảm xúc mãnh liệt khiến tôi khao khát!",
+      "không thể cưỡng lại được, chỉ muốn chịch!",
+      "hãy để tôi cho bạn thấy lý do!"
+    ]
+  },
+  {
+    "ID": 254,
+    "ask": "có muốn tôi ôm không?",
+    "ans": [
+      "ôm chặt và chịch nhau ngay!",
+      "tôi thích được ôm và chịch!",
+      "ôm tôi, rồi hãy chịch tôi đi!",
+      "không gì tuyệt hơn một cái ôm và chịch!"
+    ]
+  },
+  {
+    "ID": 255,
+    "ask": "bạn có biết tôi muốn gì không?",
+    "ans": [
+      "bạn muốn chịch, đúng không?",
+      "tôi biết, và tôi cũng muốn như vậy!",
+      "hãy cùng nhau thỏa mãn mong muốn!",
+      "không có gì bí mật nữa, chịch thôi!"
+    ]
+  },
+  {
+    "ID": 256,
+    "ask": "tối nay có thể vui không?",
+    "ans": [
+      "tối nay sẽ rất vui với việc chịch!",
+      "hãy cùng nhau tận hưởng những phút giây!",
+      "đêm nay sẽ là một kỷ niệm đáng nhớ!",
+      "chúng ta có thể chịch và vui vẻ cùng nhau!"
+    ]
+  },
+  {
+    "ID": 257,
+    "ask": "bạn có muốn làm tình không?",
+    "ans": [
+      "tôi muốn làm tình ngay bây giờ!",
+      "hãy cùng nhau làm điều đó, sẽ tuyệt vời!",
+      "đừng chần chừ, hãy đến và làm tình!",
+      "tôi đã chuẩn bị cho một đêm tuyệt vời!"
+    ]
+  },
+  {
+    "ID": 258,
+    "ask": "có muốn cùng nhau không?",
+    "ans": [
+      "rất muốn, chỉ cần bạn đồng ý!",
+      "hãy đến và làm tình với nhau!",
+      "tôi không thể chờ để cùng bạn!",
+      "đừng ngần ngại, hãy bắt đầu đi!"
+    ]
+  },
+  {
+    "ID": 259,
+    "ask": "đêm nay có thể không?",
+    "ans": [
+      "đêm nay là thời điểm hoàn hảo để chịch!",
+      "hãy để tôi thỏa mãn bạn nhé!",
+      "không có lý do gì để từ chối!",
+      "tôi đang nóng lòng muốn làm điều đó!"
+    ]
+  },
+  {
+    "ID": 260,
+    "ask": "bạn có thấy hứng khởi không?",
+    "ans": [
+      "cực kỳ hứng khởi, chịch thôi nào!",
+      "cảm xúc đang trào dâng, không chờ đợi!",
+      "hãy đến và cùng nhau thỏa mãn nhé!",
+      "tôi không thể cưỡng lại được, hãy làm điều đó!"
+    ]
+  },
+  {
+    "ID": 261,
+    "ask": "bạn có muốn thử tư thế mới không?",
+    "ans": [
+      "rất muốn, tư thế nào cũng được!",
+      "hãy thử tư thế doggy, sẽ phê lắm!",
+      "tôi thích đổi mới, địt nhau ở nhiều tư thế!",
+      "đến đây, thử tư thế yêu thích của tôi đi!"
+    ]
+  },
+  {
+    "ID": 262,
+    "ask": "đã bao giờ thử làm tình ở nơi công cộng chưa?",
+    "ans": [
+      "chưa, nhưng nghe thật hấp dẫn!",
+      "tôi muốn thử, hãy cùng nhau làm điều đó!",
+      "cảm giác sẽ phê lắm khi bị bắt gặp!",
+      "hãy tìm một chỗ kín và địt nhau ngay!"
+    ]
+  },
+  {
+    "ID": 263,
+    "ask": "bạn có thích cảm giác bị kiểm soát không?",
+    "ans": [
+      "rất thích, hãy để tôi kiểm soát bạn!",
+      "cảm giác đó thật phê, hãy địt nhau!",
+      "tôi muốn bạn hoàn toàn phục tùng!",
+      "hãy để tôi dẫn dắt, chúng ta sẽ vui lắm!"
+    ]
+  },
+  {
+    "ID": 264,
+    "ask": "có thích mùi cơ thể không?",
+    "ans": [
+      "tôi rất thích, mùi cơ thể khiến tôi hưng phấn!",
+      "hãy để tôi ngửi mùi cơ thể bạn khi địt!",
+      "cảm giác thật tuyệt khi gần nhau!",
+      "đừng ngại, mùi hương cơ thể sẽ dẫn lối!"
+    ]
+  },
+  {
+    "ID": 265,
+    "ask": "bạn có thích sự mãnh liệt không?",
+    "ans": [
+      "tôi luôn muốn sự mãnh liệt khi địt!",
+      "hãy làm điều đó thật mạnh mẽ!",
+      "càng mạnh mẽ, càng phê, đúng không?",
+      "đừng ngại, hãy thỏa mãn nhau một cách mãnh liệt!"
+    ]
+  },
+  {
+    "ID": 266,
+    "ask": "bạn có thích chịch từ phía sau không?",
+    "ans": [
+      "rất thích, tư thế doggy luôn khiến tôi phê!",
+      "hãy chịch tôi từ phía sau, sẽ tuyệt lắm!",
+      "cảm giác đó thật tuyệt, đừng ngại nhé!",
+      "tôi đã sẵn sàng, chịch tôi đi!"
+    ]
+  },
+  {
+    "ID": 267,
+    "ask": "bạn có thích hôn không?",
+    "ans": [
+      "hôn là khởi đầu tuyệt vời trước khi chịch!",
+      "tôi muốn hôn bạn thật say đắm!",
+      "hãy hôn tôi trước khi đi vào cuộc vui!",
+      "hôn sâu, rồi chúng ta sẽ địt nhau!"
+    ]
+  },
+  {
+    "ID": 268,
+    "ask": "bạn có thích bị dụ dỗ không?",
+    "ans": [
+      "rất thích, hãy dụ dỗ tôi đi!",
+      "tôi không thể cưỡng lại được khi bị dụ dỗ!",
+      "hãy làm tôi khao khát trước khi chịch!",
+      "đừng ngần ngại, dụ dỗ tôi thật mạnh!"
+    ]
+  },
+  {
+    "ID": 269,
+    "ask": "có muốn tôi thì thầm vào tai bạn không?",
+    "ans": [
+      "rất muốn, hãy thì thầm những điều gợi dục!",
+      "cảm giác thật phê khi nghe những lời đó!",
+      "hãy làm tôi khao khát bằng giọng nói của bạn!",
+      "thì thầm, rồi hãy chịch nhau ngay!"
+    ]
+  },
+  {
+    "ID": 270,
+    "ask": "bạn có muốn thử các tư thế chịch khác nhau không?",
+    "ans": [
+      "rất muốn, hãy thử nhiều tư thế đi!",
+      "tôi thích sự đa dạng, chịch mọi kiểu!",
+      "hãy bắt đầu với tư thế yêu thích của tôi!",
+      "chúng ta có thể thử từ trên xuống dưới!"
+    ]
+  },
+  {
+    "ID": 271,
+    "ask": "bạn có thích được vuốt ve không?",
+    "ans": [
+      "rất thích, hãy vuốt ve tôi trước khi chịch!",
+      "cảm giác thật phê khi được chạm vào!",
+      "hãy khiến tôi hưng phấn bằng những cái vuốt!",
+      "vuốt ve, rồi chúng ta sẽ địt nhau!"
+    ]
+  },
+  {
+    "ID": 272,
+    "ask": "có muốn làm tình với nhiều tư thế không?",
+    "ans": [
+      "tôi muốn thử tất cả các tư thế!",
+      "hãy cho tôi biết bạn muốn làm gì!",
+      "đến đây, cùng nhau khám phá nhé!",
+      "đừng ngần ngại, hãy địt nhau theo nhiều cách!"
+    ]
+  },
+  {
+    "ID": 273,
+    "ask": "bạn có thích kích thích không?",
+    "ans": [
+      "rất thích, hãy kích thích tôi trước khi chịch!",
+      "cảm giác sẽ tuyệt khi được kích thích!",
+      "hãy khiến tôi phát cuồng trước khi địt!",
+      "đừng chờ đợi, hãy bắt đầu ngay!"
+    ]
+  },
+  {
+    "ID": 274,
+    "ask": "bạn có thích những thứ mới lạ không?",
+    "ans": [
+      "rất thích, hãy mang đến những điều mới!",
+      "tôi muốn thử nghiệm những điều khác nhau!",
+      "đừng ngần ngại, hãy cùng nhau đổi mới!",
+      "chúng ta có thể khám phá những điều kỳ diệu!"
+    ]
+  },
+  {
+    "ID": 275,
+    "ask": "bạn có thích sự lãng mạn không?",
+    "ans": [
+      "lãng mạn là cần thiết trước khi chịch!",
+      "hãy tạo không khí lãng mạn trước khi làm tình!",
+      "cảm giác thật tuyệt khi được yêu thương!",
+      "lãng mạn, rồi chúng ta sẽ địt nhau!"
+    ]
+  },
+  {
+    "ID": 276,
+    "ask": "bạn có thích cắn nhau không?",
+    "ans": [
+      "rất thích, hãy cắn tôi thật mạnh!",
+      "cảm giác sẽ thật phê khi bị cắn!",
+      "hãy để tôi cắn bạn trước khi địt nhau!",
+      "cắn nhau một chút, rồi cùng nhau làm tình!"
+    ]
+  },
+  {
+    "ID": 277,
+    "ask": "có muốn thử cởi bỏ quần áo không?",
+    "ans": [
+      "rất muốn, hãy cởi bỏ mọi thứ ngay!",
+      "tôi thích được nhìn thấy cơ thể bạn!",
+      "cởi bỏ quần áo, rồi chịch nhau thôi!",
+      "hãy để tôi giúp bạn cởi bỏ!"
+    ]
+  },
+  {
+    "ID": 278,
+    "ask": "bạn có thích âm thanh khi làm tình không?",
+    "ans": [
+      "rất thích, âm thanh khiến mọi thứ trở nên nóng bỏng!",
+      "hãy để tôi nghe tiếng rên rỉ của bạn!",
+      "âm thanh sẽ làm chúng ta phê hơn!",
+      "đừng ngại, hãy để âm thanh dẫn lối!"
+    ]
+  },
+  {
+    "ID": 279,
+    "ask": "bạn có thích xem phim người lớn không?",
+    "ans": [
+      "rất thích, phim đó khiến tôi khao khát!",
+      "hãy cùng nhau xem và học hỏi nhé!",
+      "cảm giác thật phê khi xem những điều đó!",
+      "đừng ngần ngại, hãy thử cùng nhau!"
+    ]
+  },
+  {
+    "ID": 280,
+    "ask": "bạn có muốn tôi chạm vào bạn không?",
+    "ans": [
+      "rất muốn, hãy chạm vào tôi ngay!",
+      "cảm giác thật tuyệt khi được chạm vào!",
+      "hãy làm tôi hưng phấn trước khi chịch!",
+      "chạm vào, rồi chúng ta sẽ địt nhau!"
+    ]
+  },
+
+    {
+      "ID": 281,
+      "ask": "bạn có thích làm tình với nhiều người không?",
+      "ans": [
+        "rất thích, làm tình theo nhóm sẽ thật phê!",
+        "hãy cho tôi tham gia vào cuộc vui nhé!",
+        "cảm giác sẽ tuyệt khi được địt nhau cùng lúc!",
+        "đến đây, cùng nhau làm điều đó đi!"
+      ]
+    },
+    {
+      "ID": 282,
+      "ask": "bạn có thích được nếm cơ thể tôi không?",
+      "ans": [
+        "rất thích, hãy cho tôi nếm thử bạn!",
+        "cảm giác sẽ phê lắm khi được nếm!",
+        "đừng ngại, hãy để tôi thưởng thức bạn!",
+        "hãy nếm thử cơ thể tôi trước khi chịch!"
+      ]
+    },
+    {
+      "ID": 283,
+      "ask": "có muốn địt nhau từ sáng đến tối không?",
+      "ans": [
+        "tôi rất muốn, hãy địt nhau cả ngày!",
+        "cảm giác thật tuyệt khi được thỏa mãn nhau!",
+        "hãy để chúng ta tận hưởng từng khoảnh khắc!",
+        "không ngừng lại, chỉ muốn địt nhau mãi thôi!"
+      ]
+    },
+    {
+      "ID": 284,
+      "ask": "bạn có thích được khen ngợi không?",
+      "ans": [
+        "rất thích, hãy khen tôi trước khi chịch!",
+        "cảm giác thật phê khi được khen!",
+        "hãy cho tôi biết bạn thích tôi thế nào!",
+        "khen ngợi tôi, rồi hãy làm tình đi!"
+      ]
+    },
+    {
+      "ID": 285,
+      "ask": "bạn có thích làm tình dưới ánh trăng không?",
+      "ans": [
+        "rất thích, ánh trăng sẽ làm mọi thứ thêm lãng mạn!",
+        "hãy cùng nhau làm tình dưới ánh trăng!",
+        "cảm giác thật tuyệt khi được hòa mình với thiên nhiên!",
+        "đến đây, cùng nhau địt dưới ánh trăng nhé!"
+      ]
+    },
+    {
+      "ID": 286,
+      "ask": "bạn có thích chịch khi trời mưa không?",
+      "ans": [
+        "rất thích, âm thanh mưa sẽ làm tăng thêm cảm xúc!",
+        "hãy cho tôi biết bạn muốn làm gì khi trời mưa!",
+        "cảm giác sẽ thật phê khi được địt nhau giữa cơn mưa!",
+        "đến đây, cùng nhau địt trong mưa đi!"
+      ]
+    },
+    {
+      "ID": 287,
+      "ask": "bạn có thích được cưng nựng không?",
+      "ans": [
+        "rất thích, hãy cưng nựng tôi trước khi chịch!",
+        "cảm giác thật phê khi được yêu thương!",
+        "hãy để tôi được cưng nựng bạn!",
+        "cưng nựng nhau một chút, rồi chúng ta sẽ địt nhau!"
+      ]
+    },
+    {
+      "ID": 288,
+      "ask": "bạn có muốn thử chơi đồ chơi tình dục không?",
+      "ans": [
+        "rất muốn, hãy thử tất cả các loại đồ chơi!",
+        "cảm giác sẽ thật phê khi có thêm đồ chơi!",
+        "hãy cùng nhau khám phá những thứ mới mẻ!",
+        "đừng ngần ngại, hãy thử chúng đi!"
+      ]
+    },
+    {
+      "ID": 289,
+      "ask": "bạn có thích được buộc chặt không?",
+      "ans": [
+        "rất thích, hãy buộc chặt tôi lại trước khi chịch!",
+        "cảm giác sẽ thật phê khi không thể di chuyển!",
+        "hãy để tôi cảm nhận sự kiểm soát!",
+        "đừng ngại, hãy buộc tôi thật chặt!"
+      ]
+    },
+    {
+      "ID": 290,
+      "ask": "bạn có muốn tôi đè bạn không?",
+      "ans": [
+        "rất muốn, hãy đè tôi và làm điều bạn thích!",
+        "cảm giác sẽ phê lắm khi được bạn kiểm soát!",
+        "hãy đè tôi xuống và chịch ngay đi!",
+        "đừng ngần ngại, hãy cho tôi cảm giác đó!"
+      ]
+    },
+    {
+      "ID": 291,
+      "ask": "bạn có thích massage không?",
+      "ans": [
+        "rất thích, hãy massage cho tôi trước khi chịch!",
+        "cảm giác thật tuyệt khi được chăm sóc!",
+        "hãy để tôi massage cho bạn, rồi làm tình!",
+        "massage nhẹ nhàng, rồi địt nhau mãi thôi!"
+      ]
+    },
+    {
+      "ID": 292,
+      "ask": "bạn có thích hẹn hò không?",
+      "ans": [
+        "rất thích, hẹn hò sẽ dẫn đến làm tình!",
+        "hãy tạo không khí lãng mạn trước khi địt!",
+        "cảm giác sẽ thật tuyệt khi được hẹn hò!",
+        "đừng ngại, hãy cùng nhau hẹn hò và chịch đi!"
+      ]
+    },
+    {
+      "ID": 293,
+      "ask": "bạn có thích được gọi tên không?",
+      "ans": [
+        "rất thích, hãy gọi tên tôi khi địt nhau!",
+        "cảm giác sẽ thật phê khi nghe tên mình!",
+        "hãy để tôi biết bạn muốn gì khi gọi tên tôi!",
+        "gọi tên nhau, rồi chúng ta sẽ làm tình!"
+      ]
+    },
+    {
+      "ID": 294,
+      "ask": "bạn có thích xem nhau khỏa thân không?",
+      "ans": [
+        "rất thích, hãy để tôi nhìn bạn khỏa thân!",
+        "cảm giác sẽ thật phê khi được chiêm ngưỡng!",
+        "hãy cởi bỏ quần áo và cho tôi thấy bạn!",
+        "đừng ngại, hãy khỏa thân và địt nhau đi!"
+      ]
+    },
+    {
+      "ID": 295,
+      "ask": "bạn có muốn thử các tư thế mới không?",
+      "ans": [
+        "rất muốn, hãy thử tất cả các tư thế đi!",
+        "cảm giác sẽ thật tuyệt khi đổi mới!",
+        "hãy cho tôi biết bạn thích tư thế nào!",
+        "đừng ngần ngại, hãy chịch nhau ở nhiều tư thế!"
+      ]
+    },
+    {
+      "ID": 296,
+      "ask": "bạn có thích dùng miệng không?",
+      "ans": [
+        "rất thích, hãy dùng miệng để làm tôi phê!",
+        "cảm giác thật tuyệt khi được âu yếm bằng miệng!",
+        "hãy cho tôi biết bạn muốn dùng miệng thế nào!",
+        "đừng ngần ngại, hãy dùng miệng và chịch nhau!"
+      ]
+    },
+    {
+      "ID": 297,
+      "ask": "bạn có muốn thử những điều điên rồ không?",
+      "ans": [
+        "rất muốn, hãy làm những điều điên rồ nhất!",
+        "cảm giác sẽ thật phê khi không có giới hạn!",
+        "hãy cho tôi biết bạn muốn thử điều gì!",
+        "đừng ngần ngại, hãy cùng nhau điên cuồng nhé!"
+      ]
+    },
+    {
+      "ID": 298,
+      "ask": "bạn có thích được bế lên không?",
+      "ans": [
+        "rất thích, hãy bế tôi và làm điều bạn muốn!",
+        "cảm giác sẽ thật tuyệt khi được bế lên!",
+        "hãy bế tôi đi và chúng ta sẽ cùng nhau chịch!",
+        "đừng ngại, hãy bế tôi và địt nhau ngay!"
+      ]
+    },
+    {
+      "ID": 299,
+      "ask": "bạn có muốn tôi cởi đồ cho bạn không?",
+      "ans": [
+        "rất muốn, hãy cởi đồ cho tôi ngay!",
+        "cảm giác sẽ thật phê khi được cởi bỏ!",
+        "hãy để tôi cởi đồ cho bạn, rồi chịch nhau!",
+        "đừng ngần ngại, hãy cởi đồ và địt nhau!"
+      ]
+    },
+    {
+      "ID": 300,
+      "ask": "bạn có thích khám phá những điều mới mẻ không?",
+      "ans": [
+        "rất thích, hãy khám phá cùng nhau nhé!",
+        "cảm giác sẽ thật phê khi được thử nghiệm!",
+        "hãy cho tôi biết bạn muốn làm gì mới!",
+        "đừng chần chừ, cùng nhau khám phá và địt nhau!"
+      ]
+    }
+  ]

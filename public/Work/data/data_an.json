@@ -1,0 +1,132 @@
+[
+  {
+    "ID": "1",
+    "name":"Sườn Non Sốt Chua Ngọt",
+    "money":"3000",
+    "data1":"https://i.imgur.com/4J7hh42.jpeg",
+    "recipe":"Sườn non: 700 gr\nMật ong: 3 muỗng canh\nChanh tươi: 1 trái\nỚt sừng: 4 trái\nTỏi băm: 50 gr\nDưa leo: 1 trái\nRau thơm, rau mùi: mỗi loại 50g nhé.\nTiêu sọ: 1 nhánh\nGia vị: hạt nêm, nước mắm, muối, tiêu bột, ớt bột, dầu ăn.",
+    "des":"Bạn vừa làm món Sườn Non sốt chua ngọt cực hấp dẫn nên nhận được 3000$"
+    
+  },
+  {
+    "ID": "2",
+    "name":"Đùi Gà Rán",
+    "money":"4200",
+    "data1":"https://i.imgur.com/2WOq07f.jpeg",
+    "recipe":"1 kg cánh gà và đùi gà\n2 quả trứng gà\n150 g bột mì\n150 g bột năng\n500 g bột chiên xù\nDầu ăn, mật ong\nGia vị: muối, hạt nêm, bột ớt và bột tỏi\nTương cà, tương ớt",
+    "des":"Bạn vừa làm thành công món Đùi Gà Rán trong rất hấp dẫn và Ngon nên nhận được 4200$"
+    
+  },{
+    "ID": "3",
+    "name":"Thịt Kho Hột Vịt",
+    "money":"4500",
+    "data1":"https://i.imgur.com/L85ZR3U.jpeg",
+    "recipe":"1kg thịt ba rọi\n8 quả trứng vịt\n700ml nước dừa tươi\n600ml nước lọc\nVài củ hành tím, tỏi, ớt sừng\nGia vị: hạt nêm, bột ngọt, nước mắm, nước màu đường, đường phèn, chanh.",
+    "des":"Bạn vừa làm món Thịt Kho Tàu trlng rất bắc mắt và nhận được 4500$"
+    
+  },{
+    "ID": "4",
+    "name":"Cá Diêu Hồng Sốt Cà",
+    "money":"4000",
+    "data1":"https://i.imgur.com/0fBQgNC.jpeg",
+    "recipe":"500g cá điêu hồng\n500g cà chua\nHành lá cắt nhuyễn, ngò rí, tỏi băm, hành tím băm\nTrang trí với 1 cây xà lách\nGia vị: nước tương,hạt nêm,dầu hào, đường, dầu ăn",
+    "des":"Bạn vừa làm món cá diêu hồng sốt cà và nhận được 4000$"
+    
+  },{
+    "ID": "5",
+    "name":"Chân Gà Sả Tắc",
+    "money":"4900",
+    "data1":"https://i.imgur.com/fWKgABA.jpeg",
+    "recipe":"500g chân gà\n1 trái cóc hoặc xoài\n10 trái tắc\n6 cây sả\n1 củ tỏi\n2 nhánh gừng tươi\nVài trái ớt\nLá chanh\nRượu trắng\nGia vị: Đường, nước mắm, bột ngọt, nước cốt me hoặc giấm ăn, ớt bột Hàn Quốc",
+    "des":"Bạn vừa làm món chân gà sả tắc đãi sếp và được sếp thưởng 4900$"
+    
+  },{
+    "ID": "6",
+    "name":"Thịt Gà Sốt Chua Ngọt",
+    "money":"5000",
+    "data1":"https://i.imgur.com/hwsdlK6.jpeg",
+    "recipe":"500 gram thịt gà\nỚt, tỏi, hành lá, hành tím\nGia vị: Hạt nêm, bột năng, tương ớt, đường, giấm, dầu ăn.",
+    "des":"Bạn vừa làm món thịt gà sốt chua ngọt cho chị ở thành phố ăn và được chị cho 5000$"
+    
+  },{
+    "ID": "7",
+    "name":"Cơm Chiên Hải Sản",
+    "money":"5300",
+    "data1":"https://i.imgur.com/F2WRRKt.jpeg",
+    "recipe":"2 tô cơm\n2 quả trứng gà\n200 gram tôm tươi\n200 gram mực ống tươi\n100 gram chả lụa\n1 củ cà rốt\n100 gram đậu Hà Lan\nxà lách\nHành lá, xì dầu, bột ngọt, tiêu, dầu ăn",
+    "des":"Bạn vừa làm món cơm chiên hải sản để đãi khách vjp và được khách nhét túi 5300$"
+    
+  },{
+    "ID": "8",
+    "name":"Mì omachi",
+    "money":"3000",
+    "data1":"https://i.imgur.com/gYNR5l1.jpeg",
+    "recipe":"Mì omchi\nNuớc sôi",
+    "des":"Bạn đói bụng nhưng lại lười biếng nên bạn đã nấu mì xào và nhận được số tiền bèo 3000$"
+    
+  },{
+    "ID": "9",
+    "name":"Mì Hảo Hảo",
+    "money":"3000",
+    "data1":"https://i.imgur.com/gYNR5l1.jpeg",
+    "recipe":"Mì Hảo Hảo\nNước Sôi",
+    "des":"Bạn quá đói nhưng lại lười=))) và bạn quyết định nấu một gói mì hảo hảo và nhận được 3000$"
+  },
+  {
+"ID": "10",
+    "name":"Pizza",
+    "money":"6000",
+    "data1":"https://i.imgur.com/M16PJHl.jpeg",
+    "recipe":"400 gr bột mì\n1/2 muỗng cà phê muối\n6 gr men\n270- 300ml nước ấm\nXốt cà chua\nChesse Mozzarella\n1 muỗng canh dầu ăn\nNguyên liệu đa dạng tùy theo sở thích như: thịt\nhun khói, xúc xích, dứa , ớt chuông, hành tây, oliu salami, nấm….",
+    "des":"Bạn đabg đói nên quyết định mua nguyên liệu về làm pizza và nhận được 6000$"
+},{
+"ID": "11",
+    "name":"Bánh Mì Trứng",
+    "money":"4000",
+    "data1":"https://i.imgur.com/VppwhhK.jpeg",
+    "recipe":"Bánh mì Việt giòn\nTrứng gà: 2 quả\nCà chua: 1 trái, rửa sạch, cắt lát mỏng.\nDưa chuột: 1 trái, rửa sạch, bỏ vỏ, thái lát\nmỏng theo chiều dài của dưa.\nNgò thơm, hành lá đem rửa sạch, để ráo\nDầu ăn, bơ, phô\nmai, tương ớt, xì dầu\nGia vị muối, hạt tiêu",
+    "des":"Bạn vừa làm thành công món bánh mì trứng và nhận được 4000$"
+},{
+"ID": "12",
+    "name":"Phở Bò",
+    "money":"5600",
+    "data1":"https://i.imgur.com/EbJLGLN.jpeg",
+    "recipe":"3kg xương ống\n1.5kg thịt nạm\n800gr bắp bò\n500gr thịt bò tái\nBánh phở\nNguyên liệu khác: Hành tím,hành tây,hành lá,gừng,ngò rí\nGia vị: Đường phèn,muối,bột ngọt, nước mắm, giấm, rượu mai quế lộ, soup bò, thảo quả, cam thảo, tiểu hồi, đinh hồi, quế, vỏ quýt khô, hoa hồi, hạt ngò",
+    "des":"Bạn vừa làm món phở bò và nhận được 5600$"
+},{
+"ID": "13",
+    "name":"Hủ Tiếu",
+    "money":"5000",
+    "data1":"https://i.imgur.com/H6vblKA.jpeg",
+    "recipe":"1 tim heo\n1 miếng gan heo\n200g tôm\n300g mỡ heo\n400g xương đuôi heo\n1 củ cải trắng\nDầu tỏi\n200g thịt bằm\n1-2 con khô mực\n10 con tôm khô\nTrứng cút\n5 củ hành tím, 4 tép tỏi\nGiá đỗ, hẹ\nHủ tiếu khô\nGia vị: Hạt nêm, bột ngọt, đường phèn, đường, tiêu, dầu ăn, giấm, dầu hào, nước tương, hắc xì dầu, tương ớt, tương đen, bột bắp, dầu mè, muối",
+    "des":"Bạn đang đói và quyết định làm món hủ tiếu cái kết ngon khó tưởng và nhận được 5000$"
+},{
+"ID": "14",
+    "name":"Cơm Sườn",
+    "money":"6500",
+    "data1":"https://i.imgur.com/YOlwAjF.jpeg",
+    "recipe":"1kg sườn cốt lết\n1kg mỡ heo\n400g thịt băm\n3 quả trứng gà\nHành tím, hành lá, hành tây, tỏi\nGia vị: Mật ong, sữa tươi không đường, sữa đặc, dầu hào, giấm ăn, dầu ăn, nước tương, nước mắm, đường, muối, hạt nêm, tiêu xay",
+    "des":"Bạn ăn cơm ở quán thấy rất ngon và quyết định làm không ngờ ngon khó tưởng và nhận được 6500$"
+},{
+"ID": "15",
+    "name":"Bánh Bao",
+    "money":"5000",
+    "data1":"https://i.imgur.com/EY7JqEi.jpeg",
+    "recipe":"Bôt mì số 8: 1kg\nMen nở: 5g\nThịt lợn xay: 400g\nNấm: 100g\nMiến: 100g\nTrứng cút: 25 quả\nGia vị: hạt nêm, tiêu, mắm….",
+    "des":"Trời mưa bạn quá đói và quyết định làm bánh bao thử nhưng lại ngon bất ngờ 5000$"
+},{
+"ID": "16",
+    "name":"Súp Cua",
+    "money":"7000",
+    "data1":"https://i.imgur.com/hpndpjp.jpeg",
+    "recipe":"Thịt cua 150 gr\nXương để hầm lấy nước dùng 1 kg\nBắp mỹ 1 trái\nThịt ức gà 100 gr\nNấm đông cô 50 gr\nNấm tuyết 50 gr\nTrứng gà 2 trái\nBột năng 50 gr\nTrứng cút luộc sẵn c vỏ 10 bó\nTrứng bắc thảo bóc vỏ 1 cái\nRau mùi 10 gr\nGia vị (muối/tiêu/dầu mè ăn kèm 20 gr",
+    "des":"Chị bạn vừa phẩu thuật độn dú bạn quyết định làm món súp cua cho chị bồi bổ và nhận 7000$"
+},{
+"ID": "17",
+    "name":"Bánh Canh",
+    "money":"6900",
+    "data1":"https://i.imgur.com/wZtBBkZ.jpeg",
+    "recipe":"Xương ống 500 gr\nGiò heo 1 cái\nBánh canh bột gạo 500 gr\n(hoặc bánh canh bột lọc nếu thích)\nCà rốt 3 củ\nRau sống 30 gr\n(một ít giá/xà lách/húng quế)\nTiêu xay 10 gr\nHành lá 10 gr\nỚt tươi 5 gr\nHành tím 10 gr\nGia vị 10 gr\n(muối/đường/bột ngọt/bột nêm)",
+    "des":"Bạn đang buồn mồm nên làm thử món bánh canh và nhận được 6900$"
+}
+]
